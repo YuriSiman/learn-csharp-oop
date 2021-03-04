@@ -36,7 +36,7 @@ git clone https://github.com/YuriSiman/exercises-csharp.git
 <img src="./readme-image/tipos-de-dados2.PNG" />
 
 **Desafio**  
-Informe quais são os valores máximos e mínimos dos tipos abaixo:
+Imprima na tela quais são os valores máximos e mínimos dos tipos abaixo:
 
 ```
 sbyte
@@ -52,9 +52,9 @@ double
 decimal
 ```
 
-Obs: Crie variáveis para receber os valores referente ao máximo e mínimo de cada tipo.
+Obs: Não informe o valor manualmente.  
 
-* [Visualizar Código](https://github.com/YuriSiman/exercises-csharp/tree/master/src/2%20-%20intermedi%C3%A1rio/Pilha.ConsoleApp)  
+* [Visualizar Código](https://github.com/YuriSiman/exercises-csharp/tree/master/src/1%20-%20b%C3%A1sico/TipoDeDados.ConsoleApp)  
 * [Voltar ao Início](https://github.com/YuriSiman/exercises-csharp#exerc%C3%ADcios-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-em-c)  
 
 ---
