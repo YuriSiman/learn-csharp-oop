@@ -30,12 +30,10 @@ git clone https://github.com/YuriSiman/exercises-csharp.git
 
 ## :rocket: Vamos Começar - Exercícios em C#  
 
-Básico
-
 ## Tipos Básicos de Dados em C#
 
-<img src="./readme-image/tipos-de-dados.png" />
-<img src="./readme-image/tipos-de-dados2.png" />
+<img src="./readme-image/tipos-de-dados.PNG" />
+<img src="./readme-image/tipos-de-dados2.PNG" />
 
 **Desafio**  
 Informe quais são os valores máximos e mínimos dos tipos abaixo:
@@ -51,9 +49,10 @@ long
 
 Obs: Crie variáveis para receber os valores.
 
----
+* [Visualizar Código](https://github.com/YuriSiman/exercises-csharp/tree/master/src/2%20-%20intermedi%C3%A1rio/Pilha.ConsoleApp)  
+* [Voltar ao Início](https://github.com/YuriSiman/exercises-csharp#exerc%C3%ADcios-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-em-c)  
 
-Intermediário
+---
 
 ## Pilha
 
