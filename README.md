@@ -32,8 +32,8 @@ git clone https://github.com/YuriSiman/exercises-csharp.git
 
 ## Tipos Básicos de Dados em C#
 
-<img src="./readme-image/tipos-de-dados.PNG" width="400" height="400" />
-<img src="./readme-image/tipos-de-dados2.PNG" width="400" height="400" />
+<img src="./readme-image/tipos-de-dados.PNG" width="800" height="500" />
+<img src="./readme-image/tipos-de-dados2.PNG" width="800" height="500" />
 
 **Desafio**  
 Informe quais são os valores máximos e mínimos dos tipos abaixo:
