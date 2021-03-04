@@ -6,16 +6,12 @@
 
 Exercícios em C#  
 
-* [Básico](https://github.com/YuriSiman/exercises-csharp/#básico)  
+Básico
 
-
-
-* [Intermediário](https://github.com/YuriSiman/exercises-csharp/#intermediário)  
-
+Intermediário
 * [Pilha](https://github.com/YuriSiman/exercises-csharp/#pilha)  
 
-
-* [Avançado](https://github.com/YuriSiman/exercises-csharp/#avançado)  
+Avançado
 
 ---
 
@@ -31,24 +27,11 @@ Clone este repositório em sua máquina local usando:
 git clone https://github.com/YuriSiman/exercises-csharp.git
 ```
 
-### :pencil2: Progresso
-
-Exercícios em C#  
-
-Básico
-- [x] Pilha
-
-Intermediário
-- [x] Pilha
-
-Avançado
-- [x] Pilha
-
 ---
 
-## :rocket: Vamos Começar - Exercícios em C#
+## :rocket: Vamos Começar - Exercícios em C#  
 
-## Intermediário
+Intermediário
 
 ## Pilha
 
@@ -116,7 +99,7 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 
 ## :pencil: Licença
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/bootcamp-localizalabs-dotnet/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/exercises-csharp/blob/master/LICENSE)   
 
 ---
 
