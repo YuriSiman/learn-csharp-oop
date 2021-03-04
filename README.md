@@ -31,6 +31,29 @@ git clone https://github.com/YuriSiman/exercises-csharp.git
 
 ## :rocket: Vamos Começar - Exercícios em C#  
 
+Básico
+
+## Tipos Básicos de Dados em C#
+
+<img src="./readme-image/tipos-de-dados.png" />
+<img src="./readme-image/tipos-de-dados2.png" />
+
+**Desafio**
+Informe quais são os valores máximos e mínimos dos tipos abaixo:
+
+```
+int
+sbyte
+decimal
+double
+float
+long
+```
+
+Obs: Crie variáveis para receber os valores.
+
+---
+
 Intermediário
 
 ## Pilha
