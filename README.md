@@ -2,11 +2,10 @@
 
 <p align="center">Neste projeto encontram-se exercícios de lógica de programação que venho realizando junto aos meus estudos sobre a linguagem, estão contidos exercícios de nível básico ao avançado. Busco apontar questões fundamentais da linguagem nos exercícios básicos e questões elaboradas nos exercícios intermediários e avançados.</p>
 
-## :clipboard: Tópicos
-
-Exercícios em C#  
+## :clipboard: Tópicos - Exercícios em C# 
 
 Básico
+* [Tipos Básicos de Dados em C#](https://github.com/YuriSiman/exercises-csharp#tipos-b%C3%A1sicos-de-dados-em-c)  
 
 Intermediário
 * [Pilha](https://github.com/YuriSiman/exercises-csharp/#pilha)  
@@ -38,7 +37,7 @@ Básico
 <img src="./readme-image/tipos-de-dados.png" />
 <img src="./readme-image/tipos-de-dados2.png" />
 
-**Desafio**
+**Desafio**  
 Informe quais são os valores máximos e mínimos dos tipos abaixo:
 
 ```
