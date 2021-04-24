@@ -1,16 +1,12 @@
-<h1 align="center">Exercícios de Lógica de Programação em C#</h1>
+<h1 align="center">Ministrando Aulas de Programação com C#</h1>
 
-<p align="center">Neste projeto encontram-se exercícios de lógica de programação que venho realizando junto aos meus estudos sobre a linguagem, estão contidos exercícios de nível básico ao avançado. Busco apontar questões fundamentais da linguagem nos exercícios básicos e questões elaboradas nos exercícios intermediários e avançados.</p>
+<p align="center">Projeto que criei para ministrar aulas de programação em C#. </p>
 
-## :clipboard: Tópicos - Exercícios em C# 
+## :clipboard: Tópicos
 
-Básico
-* [Tipos Básicos de Dados em C#](https://github.com/YuriSiman/exercises-csharp#tipos-b%C3%A1sicos-de-dados-em-c)  
+- Lógica de Programação
 
-Intermediário
-* [Pilha](https://github.com/YuriSiman/exercises-csharp/#pilha)  
-
-Avançado
+* [Saída de Dados](https://github.com/YuriSiman/exercises-csharp#tipos-b%C3%saída-de-dados)  
 
 ---
 
@@ -23,50 +19,34 @@ Tenho como objetivo reunir neste projeto exercícios de lógica de programação
 Clone este repositório em sua máquina local usando:
 
 ```
-git clone https://github.com/YuriSiman/exercises-csharp.git
+git clone https://github.com/YuriSiman/teach-csharp.git
 ```
 
 ---
 
 ## :rocket: Vamos Começar - Exercícios em C#  
 
-## Tipos Básicos de Dados em C#
+## Saída de Dados#
 
 <img src="./readme-image/tipos-de-dados.PNG" />
 <img src="./readme-image/tipos-de-dados2.PNG" />
 
 **Desafio**  
-Imprima na tela quais são os valores máximos e mínimos dos tipos abaixo:
+Crie as variáveis necessárias para que seja possível produzir a sequinte saída na tela do console:
 
 ```
-sbyte
-short
-int
-long
-byte
-ushort
-uint
-ulong
-float
-double
-decimal
-```
+Produtos:
+Computador, cujo preço é R$ 2.100,00
+Mesa de escritório, cujo preço é R$ 650,50
 
-Obs: Não informe o valor manualmente.  
+Registro: 30 anos de idade, código 5290 e gênero: M
+
+Medida com oito casas decimais: 53,23456700
+Arredondado (três casa decimais): 53,235
+Separador decimal invariant culture: 53.235
+```  
 
 * [Visualizar Código](https://github.com/YuriSiman/exercises-csharp/tree/master/src/1%20-%20b%C3%A1sico/TipoDeDados.ConsoleApp)  
-* [Voltar ao Início](https://github.com/YuriSiman/exercises-csharp#exerc%C3%ADcios-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-em-c)  
-
----
-
-## Pilha
-
-Pilhas - Stack. São estruturas de dados do tipo LIFO (last-in first-out), onde o último elemento a ser inserido, será o primeiro a ser retirado. Assim, uma pilha permite acesso a apenas um item de dados - o último inserido. Para processar o penúltimo item inserido, deve-se remover o último.
-
-**Desafio**  
-Desenvolva um programa que receba do usuário 3 dados e empilhe isso em uma estrutura de Pilha, sendo que, ao desenpilhar os dados, deve-se respeitar o tipo LIFO (last-in first-out).
-
-* [Visualizar Código](https://github.com/YuriSiman/exercises-csharp/tree/master/src/2%20-%20intermedi%C3%A1rio/Pilha.ConsoleApp)  
 * [Voltar ao Início](https://github.com/YuriSiman/exercises-csharp#exerc%C3%ADcios-de-l%C3%B3gica-de-programa%C3%A7%C3%A3o-em-c)  
 
 ---
@@ -87,7 +67,7 @@ Desenvolva um programa que receba do usuário 3 dados e empilhe isso em uma estr
 
 ### Passo 2
 
-* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/exercises-csharp.git`
+* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/teach-csharp.git`
 
 ### Passo 3
 
@@ -125,7 +105,7 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 
 ## :pencil: Licença
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/exercises-csharp/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/teach-csharp/blob/master/LICENSE)   
 
 ---
 
