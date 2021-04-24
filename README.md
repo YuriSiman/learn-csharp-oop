@@ -31,8 +31,24 @@ git clone https://github.com/YuriSiman/teach-csharp.git
 <img src="./readme-image/tipos-de-dados.PNG" />
 <img src="./readme-image/tipos-de-dados2.PNG" />
 
-**Desafio**  
-Crie as variáveis necessárias para que seja possível produzir a sequinte saída na tela do console:
+```
+    //CultureInfo.InvariantCulture
+    double saldo = 152.1225;
+    Console.WriteLine(saldo.ToString("F2", CultureInfo.InvariantCulture));
+
+    // Tipos de Saída de Dados
+
+    // Placeholders
+    Console.WriteLine("O saldo é R$ {0}", saldo);
+
+    // Interpolação
+    Console.WriteLine($"O saldo é R$ {saldo}");
+
+    // Concatenação
+    Console.WriteLine("O saldo é R$ " + saldo);
+```  
+
+Crie as variáveis necessárias para que seja possível produzir a sequinte saída na tela do console com a saída de dados do tipo Interpolação:
 
 ```
 Produtos:
