@@ -23,6 +23,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Operadores Aritméticos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "src\1 - Lógica de Programação\4 - Operadores Aritméticos\OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Entrada de Dados", "5 - Entrada de Dados", "{62AC629A-8C54-43B8-9B67-0D3684A2A25E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDeDados", "src\1 - Lógica de Programação\5 - Entrada de Dados\EntradaDeDados\EntradaDeDados.csproj", "{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,18 @@ Global
 		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x64.Build.0 = Release|Any CPU
 		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x86.ActiveCfg = Release|Any CPU
 		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x86.Build.0 = Release|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Debug|x64.Build.0 = Debug|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Debug|x86.Build.0 = Debug|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Release|x64.ActiveCfg = Release|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Release|x64.Build.0 = Release|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Release|x86.ActiveCfg = Release|Any CPU
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +111,8 @@ Global
 		{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE} = {827DC4E5-675D-48D5-A59E-69FB41BA8728}
 		{F3B8592C-0DB4-43EC-864A-9DC02CF6F69F} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
 		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868} = {F3B8592C-0DB4-43EC-864A-9DC02CF6F69F}
+		{62AC629A-8C54-43B8-9B67-0D3684A2A25E} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
+		{F2CF862F-1064-4C45-950C-9CA8DD95FD8C} = {62AC629A-8C54-43B8-9B67-0D3684A2A25E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
