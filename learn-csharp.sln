@@ -9,15 +9,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Lógica de Programaçã
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Saída de Dados", "1 - Saída de Dados", "{5B092BB2-E708-4C17-AB7C-0B6B8D157144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaidaDeDados", "src\1 - Lógica de Programação\1 - Saída de Dados\SaidaDeDados\SaidaDeDados.csproj", "{71B122BD-DADC-4179-8D34-7C4BEEEED850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaidaDeDados", "src\1 - Lógica de Programação\1 - Saída de Dados\SaidaDeDados\SaidaDeDados.csproj", "{71B122BD-DADC-4179-8D34-7C4BEEEED850}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Operadores de Atribuição", "2 - Operadores de Atribuição", "{E46A4717-1680-4162-BC65-8D201B893411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAtribuicao", "src\1 - Lógica de Programação\2 - Operadores de Atribuição\OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{5FEE4B59-C66A-40E8-916C-10C4851D9478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresAtribuicao", "src\1 - Lógica de Programação\2 - Operadores de Atribuição\OperadoresAtribuicao\OperadoresAtribuicao.csproj", "{5FEE4B59-C66A-40E8-916C-10C4851D9478}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Casting", "3 - Casting", "{827DC4E5-675D-48D5-A59E-69FB41BA8728}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "src\1 - Lógica de Programação\3 - Casting\Casting\Casting.csproj", "{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "src\1 - Lógica de Programação\3 - Casting\Casting\Casting.csproj", "{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Operadores Aritméticos", "4 - Operadores Aritméticos", "{F3B8592C-0DB4-43EC-864A-9DC02CF6F69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadoresAritmeticos", "src\1 - Lógica de Programação\4 - Operadores Aritméticos\OperadoresAritmeticos\OperadoresAritmeticos.csproj", "{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +31,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{71B122BD-DADC-4179-8D34-7C4BEEEED850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -68,6 +69,21 @@ Global
 		{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE}.Release|x64.Build.0 = Release|Any CPU
 		{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE}.Release|x86.ActiveCfg = Release|Any CPU
 		{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE}.Release|x86.Build.0 = Release|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Debug|x64.Build.0 = Debug|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x64.ActiveCfg = Release|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x64.Build.0 = Release|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1112BC79-491E-4B28-AB0A-4A3AC52165FD} = {110D6835-80C5-43DD-A8B1-3BBEB4E53D6F}
@@ -77,5 +93,10 @@ Global
 		{5FEE4B59-C66A-40E8-916C-10C4851D9478} = {E46A4717-1680-4162-BC65-8D201B893411}
 		{827DC4E5-675D-48D5-A59E-69FB41BA8728} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
 		{8E9CD5E9-9DCA-4501-AF0C-04863CF506EE} = {827DC4E5-675D-48D5-A59E-69FB41BA8728}
+		{F3B8592C-0DB4-43EC-864A-9DC02CF6F69F} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
+		{C1DDD8AF-E4C2-46DA-A72A-8E51BDF82868} = {F3B8592C-0DB4-43EC-864A-9DC02CF6F69F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
 	EndGlobalSection
 EndGlobal
