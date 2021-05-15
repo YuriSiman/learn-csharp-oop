@@ -26,11 +26,16 @@ namespace EstruturaRepeticao
             } while (numero >= 0);
 
             // Estrutura de Repetição [ For ]
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine(i);
-            }
+            Console.WriteLine("Digite a quantidade de números que serão somados:");
+            int qtd = int.Parse(Console.ReadLine());
+            int soma = 0;
 
+            for (int i = 0; i < qtd; i++)
+            {
+                Console.WriteLine($"Digite o {i+1}º número:");
+                soma += int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine($"Soma total: {soma}");
         }
     }
 }
