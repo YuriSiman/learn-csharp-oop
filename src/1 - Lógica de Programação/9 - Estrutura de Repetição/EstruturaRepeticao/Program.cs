@@ -7,23 +7,25 @@ namespace EstruturaRepeticao
         static void Main(string[] args)
         {
 
-            int numero = 1;
+            double numero = 0;
 
-            while (numero > 0)
+            double result = ReceberValor(numero);
+
+            while (result >= 0)
             {
-                Console.WriteLine("Digite um número:");
-                numero = int.Parse(Console.ReadLine());
+                double raizQuadrada = Math.Sqrt(result);
+                Console.WriteLine(raizQuadrada.ToString("F3"));
 
-                if(numero < 0)
-                {
-                    Console.WriteLine("Número negativo!");
-                }
-                else
-                {
-                    double raizQuadrada = Math.Sqrt(numero);
-                    Console.WriteLine(raizQuadrada.ToString("F3"));
-                }
+                result = ReceberValor(numero);
             }
+            Console.WriteLine("Número negativo!");
+        }
+
+        static double ReceberValor(double numero)
+        {
+            Console.WriteLine("Digite um número:");
+            numero = double.Parse(Console.ReadLine());
+            return numero;
         }
     }
 }
