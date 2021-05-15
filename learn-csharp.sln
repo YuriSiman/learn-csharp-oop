@@ -35,6 +35,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Estrutura Condicional",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional", "src\1 - Lógica de Programação\7 - Estrutura Condicional\EstruturaCondicional\EstruturaCondicional.csproj", "{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Funções", "8 - Funções", "{7857947E-14C1-4749-80F2-E65256C45143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcoes", "src\1 - Lógica de Programação\8 - Funções\Funcoes\Funcoes.csproj", "{708B0DFD-A091-4935-9456-F698725436A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,18 @@ Global
 		{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D}.Release|x64.Build.0 = Release|Any CPU
 		{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D}.Release|x86.ActiveCfg = Release|Any CPU
 		{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D}.Release|x86.Build.0 = Release|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Debug|x64.Build.0 = Debug|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Debug|x86.Build.0 = Debug|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Release|x64.ActiveCfg = Release|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Release|x64.Build.0 = Release|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{708B0DFD-A091-4935-9456-F698725436A0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +165,8 @@ Global
 		{13F6932B-AE61-4DFC-B316-28B67D0B9FE5} = {9F9F25FB-602C-4AA4-8640-C82ECACFBFB4}
 		{DAA621A9-4670-4097-9FA3-97E072CE2060} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
 		{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D} = {DAA621A9-4670-4097-9FA3-97E072CE2060}
+		{7857947E-14C1-4749-80F2-E65256C45143} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
+		{708B0DFD-A091-4935-9456-F698725436A0} = {7857947E-14C1-4749-80F2-E65256C45143}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
