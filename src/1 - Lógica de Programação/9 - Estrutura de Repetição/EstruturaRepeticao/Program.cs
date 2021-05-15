@@ -7,25 +7,30 @@ namespace EstruturaRepeticao
         static void Main(string[] args)
         {
 
-            double numero = 0;
+            int numero = 0;
 
-            double result = ReceberValor(numero);
-
-            while (result >= 0)
+            // Estrutura de Repetição [ While ]
+            while (numero >= 0)
             {
-                double raizQuadrada = Math.Sqrt(result);
-                Console.WriteLine(raizQuadrada.ToString("F3"));
-
-                result = ReceberValor(numero);
+                Console.WriteLine("[while] Digite um número: ");
+                numero = int.Parse(Console.ReadLine());
+                Console.WriteLine("Repete [while]");
             }
-            Console.WriteLine("Número negativo!");
-        }
 
-        static double ReceberValor(double numero)
-        {
-            Console.WriteLine("Digite um número:");
-            numero = double.Parse(Console.ReadLine());
-            return numero;
+            // Estrutura de Repetição [ Do - While ]
+            do
+            {
+                Console.WriteLine("[do-while] Digite um número: ");
+                numero = int.Parse(Console.ReadLine());
+                Console.WriteLine("Repete [do-while]");
+            } while (numero >= 0);
+
+            // Estrutura de Repetição [ For ]
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
         }
     }
 }
