@@ -97,7 +97,7 @@ Exemplo de Entrada | Exemplo de Saída
 ---
 
 ## Desafio 03  
-Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENÇA = (A * B - C * D)
+Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D.
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
