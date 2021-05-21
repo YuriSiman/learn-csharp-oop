@@ -33,12 +33,9 @@ Faça um programa para ler dois valores inteiros, e depois mostrar na tela a som
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-10
-30 | SOMA = 40
--30
-10 | SOMA = -20
-0
-0 | SOMA = 0
+10  30 | SOMA = 40
+-30  10 | SOMA = -20
+0  0 | SOMA = 0
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -65,18 +62,40 @@ Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcul
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-5
-6
-7
-8 | DIFERENCA = -26
-100.64 | A = 31819.3103
-150.00 | A = 70685.7750
+5  6  7  8 | DIFERENÇA = -26
+5  6  -7  8 | DIFERENÇA = 86
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
 ---
 
 **Desafio 04**  
+Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+25  100  5.50 | Número: 25  Salário: R$ 550,00
+1  200  20.50 | Número: 1  Salário: R$ 4100,00
+6  145  15.55 | Número: 6  Salário: R$ 2254,75
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 05**  
+Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+12  1  5.30    16  2  5.10 | Valor a pagar: R$ 15,50
+13  2  15.30    161  4  5.20 | Valor a pagar: R$ 51,40
+1  1  15.10    2  1  15.10 | Valor a pagar: R$ 30,20
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 06**  
 Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:  
 
 a) a área do triângulo retângulo que tem A por base e C por altura.   
@@ -102,7 +121,20 @@ RETANGULO: 132.080
 
 ---
 
-**Desafio 03**  
+**Desafio 07**  
+Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.  
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+-10 | NEGATIVO
+8 | NÃO NEGATIVO
+0 | NÃO NEGATIVO
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 08**  
 Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.  
 
 Exemplo de Entrada | Exemplo de Saída
@@ -115,20 +147,20 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
-**Desafio 04**  
+**Desafio 09**  
 Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "São Múltiplos" ou "Não são Múltiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-6 24 | São múltiplos
-6 25 | Não são múltiplos
-24 6 | São Múltiplos
+6  24 | São múltiplos
+6  25 | Não são múltiplos
+24  6 | São Múltiplos
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
 ---
 
-**Desafio 05**  
+**Desafio 10**  
 Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
 
 Exemplo de Entrada | Exemplo de Saída
@@ -141,7 +173,27 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
-**Desafio 06**  
+**Desafio 11**  
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+
+Código | Especificação | Preço
+------------ | -------------
+1 | Cachorro Quente | R$ 4,00
+2 | X-Salada | R$ 4,50
+3 | X-Bacon | R$ 5,00
+4 | Torrada Simples | R$ 2,00
+5 | Refrigerante | R$ 1,50
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+3  2 | Total: R$ 10,00
+2  3 | Total: R$ 13,50
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 12**  
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos (0,25), (25,50), (50,75), (75,100) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 
 Exemplo de Entrada | Exemplo de Saída
@@ -155,7 +207,7 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
-**Desafio 07**  
+**Desafio 13**  
 Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0). Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
 
 imagem
@@ -170,7 +222,7 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
-**Desafio 08**  
+**Desafio 14**  
 Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$. Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo:
 
 imagem
@@ -182,6 +234,162 @@ Exemplo de Entrada | Exemplo de Saída
 3002.00 | R$ 80.36
 1701.12 | Isento
 4520.00 | R$ 355.60
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 15**  
+Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+2200 | Senha Inválida
+1020 | Senha Inválida
+2022 | Senha Inválida
+2002 | Acesso Permitido
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 16**  
+Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+2  2 | Primeiro
+3  -2 | Quarto
+-8  -1 | Terceiro
+-7  1 | Segundo
+0  2 | 
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 17**  
+Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até 
+que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+8 | Muito Obrigado
+1 | Álcool: 1
+7 | Gasolina: 2
+2 | Diesel: 0
+2 | 
+4 | 
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 18**  
+Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+8 | 1   3   5   7
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 19**  
+Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando essas informações conforme exemplo (use a palavra "in" para dentro do intervalo, e "out" para fora do intervalo).
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+5  14  123  10  -25  32 | 2 in   3 out
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 20**  
+Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, cada um deles com uma casa decimal. Apresente a média ponderada para cada um destes conjuntos de 3 valores, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+3 | 
+6.5  4.3  6.2 | 5.7
+5.1  4.2  8.1 | 6.3
+8.0  9.0  10.0 | 9.3
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 21**  
+Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem "divisao impossivel".
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+3 |
+3  -2 | -1.5
+-8  0 | Divisão Impossível
+0  8 | 0.0
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 22**  
+Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1. Lembrando que, por definição, fatorial de 0 é 1.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+4 | 24
+1 | 1
+5 | 120
+0 | 1
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 23**  
+Ler um número inteiro N e calcular todos os seus divisores.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+6 | 1  2  3  6
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 24**  
+Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor, conforme exemplo.
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+5 | 1 1 1
+ | 2 4 8
+ | 3 9 27
+ | 4 16 64
+ | 5 25 125
+
+* [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
+
+---
+
+**Desafio 25**
+Fazer um programa que imprima no console o desenho abaixo:
+
+```
+*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+```
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -203,7 +411,7 @@ Exemplo de Entrada | Exemplo de Saída
 
 ### Passo 2
 
-* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/teach-csharp.git`
+* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/learn-csharp-oop.git`
 
 ### Passo 3
 
@@ -241,7 +449,7 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 
 ## :pencil: Licença
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/teach-csharp/blob/master/LICENSE)   
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE)  
 
 ---
 
