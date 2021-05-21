@@ -75,22 +75,22 @@ Exemplo de Entrada | Exemplo de Saída
 ---
 
 ## Desafio 02  
-Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos:  
+Faça um programa para ler o valor do diâmetro de um círculo e, com isso, calcular o seu raio. Depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos:  
 
 Fórmula da área: area = π . raio^2
 Considere o valor de π = 3.14159
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-2.00 | A = 12.5664
+2.00 | A = 3.1416
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-100.64 | A = 31819.3103
+100.64 | A = 79548275.7882
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-150.00 | A = 70685.7750
+150.00 | A = 176714437.5000
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#aprendendo-c-e-poo)  
 
