@@ -35,8 +35,16 @@ Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 10  
 30 | SOMA = 40
--30  10 | SOMA = -20
-0  0 | SOMA = 0
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+-30  
+10 | SOMA = -20
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+0  
+0 | SOMA = 0
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -51,7 +59,13 @@ Considere o valor de π = 3.14159
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 2.00 | A = 12.5664
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 100.64 | A = 31819.3103
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 150.00 | A = 70685.7750
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -63,8 +77,17 @@ Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcul
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-5  6  7  8 | DIFERENÇA = -26
-5  6  -7  8 | DIFERENÇA = 86
+5  
+6  
+7  
+8 | DIFERENÇA = -26
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+5  
+6  
+-7  
+8 | DIFERENÇA = 86
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -75,9 +98,21 @@ Fazer um programa que leia o número de um funcionário, seu número de horas tr
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-25  100  5.50 | Número: 25  Salário: R$ 550,00
-1  200  20.50 | Número: 1  Salário: R$ 4100,00
-6  145  15.55 | Número: 6  Salário: R$ 2254,75
+25  
+100  
+5.50 | Número: 25  Salário: R$ 550,00
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+1  
+200  
+20.50 | Número: 1  Salário: R$ 4100,00
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+6  
+145  
+15.55 | Número: 6  Salário: R$ 2254,75
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -88,9 +123,18 @@ Fazer um programa para ler o código de uma peça 1, o número de peças 1, o va
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-12  1  5.30    16  2  5.10 | Valor a pagar: R$ 15,50
-13  2  15.30    161  4  5.20 | Valor a pagar: R$ 51,40
-1  1  15.10    2  1  15.10 | Valor a pagar: R$ 30,20
+12  1  5.30    
+16  2  5.10 | Valor a pagar: R$ 15,50
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+13  2  15.30    
+161  4  5.20 | Valor a pagar: R$ 51,40
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+1  1  15.10    
+2  1  15.10 | Valor a pagar: R$ 30,20
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -107,16 +151,11 @@ e) a área do retângulo que tem lados A e B
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-3.0 4.0 5.2 | TRIANGULO: 7.800
-CIRCULO: 84.949
-TRAPEZIO: 18.200
-QUADRADO: 16.000
-RETANGULO: 12.000
-12.7 10.4 15.2 | TRIANGULO: 96.520
-CIRCULO: 725.833
-TRAPEZIO: 175.560
-QUADRADO: 108.160
-RETANGULO: 132.080
+3.0 4.0 5.2 | TRIÂNGULO: 7.800   CÍRCULO: 84.949   TRAPÉZIO: 18.200   QUADRADO: 16.000   RETÂNGULO: 12.000
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+12.7 10.4 15.2 | TRIÂNGULO: 96.520   CÍRCULO: 725.833   TRAPÉZIO: 175.560   QUADRADO: 108.160   RETÂNGULO: 132.080
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -128,7 +167,13 @@ Fazer um programa para ler um número inteiro, e depois dizer se este número é
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 -10 | NEGATIVO
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 8 | NÃO NEGATIVO
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 0 | NÃO NEGATIVO
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -141,7 +186,13 @@ Fazer um programa para ler um número inteiro e dizer se este número é par ou 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 12 | PAR
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 -27 | ÍMPAR
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 0 | PAR
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -154,7 +205,13 @@ Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "S�
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 6  24 | São múltiplos
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 6  25 | Não são múltiplos
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 24  6 | São Múltiplos
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -166,9 +223,15 @@ Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do j
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-16 2 | O jogo durou 10 horas
-0 0 | O jogo durou 24 horas
-2 16 | O jogo durou 14 horas
+16  2 | O jogo durou 10 horas
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+0  0 | O jogo durou 24 horas
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+2  16 | O jogo durou 14 horas
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -188,6 +251,9 @@ Código | Especificação | Preço
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 3  2 | Total: R$ 10,00
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 2  3 | Total: R$ 13,50
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -200,8 +266,17 @@ Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 25.01 | Intervalo (25,50)
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 25.00 | Intervalo (0, 25)
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 100.00 | Intervalo (75,100)
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 -25.02 | Fora de intervalo
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -215,9 +290,15 @@ imagem
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-4.5 -2.2 | Q4
-0.1 0.1 | Q1
-0.0 0.0 | Origem
+4.5  -2.2 | Q4
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+0.1  0.1 | Q1
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
+0.0  0.0 | Origem
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -226,14 +307,25 @@ Exemplo de Entrada | Exemplo de Saída
 **Desafio 14**  
 Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$. Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo:
 
-imagem
+Renda | Imposto de Renda
+------------ | -------------
+de 0,00 a R$ 2000,00 | Isento
+de R$ 2000,01 até R$ 3000,00 | 8%
+de R$ 3000,01 até R$ 4500,00 | 18%
+acima de R$ 4500,00 | 28%
 
 Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com duas casas decimais.
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 3002.00 | R$ 80.36
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 1701.12 | Isento
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 4520.00 | R$ 355.60
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -246,8 +338,17 @@ Escreva um programa que repita a leitura de uma senha até que ela seja válida.
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 2200 | Senha Inválida
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 1020 | Senha Inválida
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 2022 | Senha Inválida
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 2002 | Acesso Permitido
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -260,9 +361,21 @@ Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminad
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 2  2 | Primeiro
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 3  -2 | Quarto
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 -8  -1 | Terceiro
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 -7  1 | Segundo
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 0  2 | 
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -291,7 +404,10 @@ Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 at�
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-8 | 1   3   5   7
+8 | 1   
+  | 3
+  | 5
+  | 7
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -302,7 +418,12 @@ Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-5  14  123  10  -25  32 | 2 in   3 out
+5  
+14  
+123  
+10  
+-25  
+32 | 2 in   3 out
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
@@ -342,8 +463,17 @@ Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N *
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 4 | 24
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 1 | 1
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 5 | 120
+
+Exemplo de Entrada | Exemplo de Saída
+------------ | -------------
 0 | 1
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
@@ -366,11 +496,12 @@ Fazer um programa para ler um número inteiro positivo N. O programa deve então
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-5 | 1 1 1
- | 2 4 8
- | 3 9 27
- | 4 16 64
- | 5 25 125
+5 |
+  | 1 1 1
+  | 2 4 8
+  | 3 9 27
+  | 4 16 64
+  | 5 25 125
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#ministrando-aulas-de-programa%C3%A7%C3%A3o-com-c)  
 
