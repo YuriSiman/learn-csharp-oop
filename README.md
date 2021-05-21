@@ -4,9 +4,9 @@
 
 ## :clipboard: Tópicos
 
-- Lógica de Programação
+**Desafios**
 
-* [Saída de Dados](https://github.com/YuriSiman/exercises-csharp#tipos-b%C3%saída-de-dados)  
+* [Desafio 01](https://github.com/YuriSiman/learn-csharp-oop#desafio-01)  
 
 ---
 
@@ -28,7 +28,7 @@ git clone https://github.com/YuriSiman/learn-csharp-oop.git
 
 ## Lógica de Programação
 
-**Desafio 01**  
+## Desafio 01  
 Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa, conforme exemplos:
 
 Exemplo de Entrada | Exemplo de Saída
