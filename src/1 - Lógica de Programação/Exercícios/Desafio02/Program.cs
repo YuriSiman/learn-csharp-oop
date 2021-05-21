@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Desafio02
 {
@@ -13,7 +14,7 @@ namespace Desafio02
             double pi = 3.14159;
             double area = pi * (Math.Pow(raio, 2));
 
-            Console.WriteLine($"A = {area}");
+            Console.WriteLine($"A = {area.ToString("F4", CultureInfo.InvariantCulture)}");
         }
     }
 }
