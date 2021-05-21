@@ -33,7 +33,8 @@ Faça um programa para ler dois valores inteiros, e depois mostrar na tela a som
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-10  30 | SOMA = 40
+10  
+30 | SOMA = 40
 -30  10 | SOMA = -20
 0  0 | SOMA = 0
 
