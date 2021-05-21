@@ -33,15 +33,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresComparativosLogic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Estrutura Condicional", "7 - Estrutura Condicional", "{DAA621A9-4670-4097-9FA3-97E072CE2060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaCondicional", "src\1 - Lógica de Programação\7 - Estrutura Condicional\EstruturaCondicional\EstruturaCondicional.csproj", "{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaCondicional", "src\1 - Lógica de Programação\7 - Estrutura Condicional\EstruturaCondicional\EstruturaCondicional.csproj", "{3ED8718F-5E27-4D2F-86A8-DE9A773E0C0D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Funções", "8 - Funções", "{7857947E-14C1-4749-80F2-E65256C45143}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcoes", "src\1 - Lógica de Programação\8 - Funções\Funcoes\Funcoes.csproj", "{708B0DFD-A091-4935-9456-F698725436A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcoes", "src\1 - Lógica de Programação\8 - Funções\Funcoes\Funcoes.csproj", "{708B0DFD-A091-4935-9456-F698725436A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 - Estrutura de Repetição", "9 - Estrutura de Repetição", "{0D39EB9B-6F42-426E-B293-15C127588CE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaRepeticao", "src\1 - Lógica de Programação\9 - Estrutura de Repetição\EstruturaRepeticao\EstruturaRepeticao.csproj", "{005096CA-B065-496E-8502-1E59DCC57D64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaRepeticao", "src\1 - Lógica de Programação\9 - Estrutura de Repetição\EstruturaRepeticao\EstruturaRepeticao.csproj", "{005096CA-B065-496E-8502-1E59DCC57D64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercícios", "Exercícios", "{CB67252F-1C74-41ED-9F90-602AB05E2BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio01", "src\1 - Lógica de Programação\Exercícios\Desafio01\Desafio01.csproj", "{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio02", "src\1 - Lógica de Programação\Exercícios\Desafio02\Desafio02.csproj", "{3E934363-28C4-4D09-8C2A-060AEA741CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +167,30 @@ Global
 		{005096CA-B065-496E-8502-1E59DCC57D64}.Release|x64.Build.0 = Release|Any CPU
 		{005096CA-B065-496E-8502-1E59DCC57D64}.Release|x86.ActiveCfg = Release|Any CPU
 		{005096CA-B065-496E-8502-1E59DCC57D64}.Release|x86.Build.0 = Release|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Debug|x64.Build.0 = Debug|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Release|x64.ActiveCfg = Release|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Release|x64.Build.0 = Release|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8}.Release|x86.Build.0 = Release|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Debug|x64.Build.0 = Debug|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Debug|x86.Build.0 = Debug|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Release|x64.ActiveCfg = Release|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Release|x64.Build.0 = Release|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Release|x86.ActiveCfg = Release|Any CPU
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +215,9 @@ Global
 		{708B0DFD-A091-4935-9456-F698725436A0} = {7857947E-14C1-4749-80F2-E65256C45143}
 		{0D39EB9B-6F42-426E-B293-15C127588CE0} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
 		{005096CA-B065-496E-8502-1E59DCC57D64} = {0D39EB9B-6F42-426E-B293-15C127588CE0}
+		{CB67252F-1C74-41ED-9F90-602AB05E2BC9} = {1112BC79-491E-4B28-AB0A-4A3AC52165FD}
+		{366B1EFE-1F8E-43C6-A03D-2D09EB5A50F8} = {CB67252F-1C74-41ED-9F90-602AB05E2BC9}
+		{3E934363-28C4-4D09-8C2A-060AEA741CE5} = {CB67252F-1C74-41ED-9F90-602AB05E2BC9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
