@@ -12,36 +12,13 @@ namespace Desafio09
             Console.Write("B: ");
             int b = int.Parse(Console.ReadLine());
 
-            if(a == 0 || b == 0)
+            if (a == 0 || b == 0 || ((a / b) * b == a) || ((b / a) * a == b))
             {
                 Console.WriteLine("São Múltiplos");
             }
             else
             {
-                if (a > b)
-                {
-                    int divisao = a / b;
-                    if (divisao * b == a)
-                    {
-                        Console.WriteLine("São Múltiplos");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Não são Múltiplos");
-                    }
-                }
-                else
-                {
-                    int divisao = b / a;
-                    if (divisao * a == b)
-                    {
-                        Console.WriteLine("São Múltiplos");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Não são Múltiplos");
-                    }
-                }
+                Console.WriteLine("Não são Múltiplos");
             }
         }
     }

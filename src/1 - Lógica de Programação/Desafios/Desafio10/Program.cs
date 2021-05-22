@@ -13,7 +13,7 @@ namespace Desafio10
             Console.Write("Hora Final: ");
             int horaFinal = int.Parse(Console.ReadLine());
 
-            int duracao = 0;
+            int duracao = 24;
 
             if(horaInicial > horaFinal)
             {
@@ -23,23 +23,8 @@ namespace Desafio10
             {
                 duracao = horaFinal - horaInicial;
             }
-            else
-            {
-                duracao = 24;
-            }
 
-            if (duracao > 24)
-            {
-                Console.WriteLine("O jogo durou 24 horas");
-            }
-            else if(duracao < 1)
-            {
-                Console.WriteLine("O jogo durou 1 hora");
-            }
-            else
-            {
-                Console.WriteLine($"O jogo durou {duracao} horas");
-            }
+            Console.WriteLine($"O jogo durou {duracao} horas");
         }
     }
 }
