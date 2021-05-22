@@ -86,11 +86,11 @@ Exemplo de Entrada | Exemplo de Saída
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-100.64 | A = 79548275.7882
+100.64 | A = 7954.8276
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-150.00 | A = 176714437.5000
+150.00 | A = 17671.4437
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#aprendendo-c-e-poo)  
 
