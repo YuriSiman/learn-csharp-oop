@@ -8,11 +8,11 @@ namespace Desafio02
         static void Main(string[] args)
         {
             Console.Write("Inform o diâmetro de um círculo: ");
-            double diametro = double.Parse(Console.ReadLine());
+            double diametro = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double raio = diametro / 2;
             double pi = 3.14159;
-            double area = pi * (Math.Pow(raio, 2));
+            double area = pi * Math.Pow(raio, 2);
 
             Console.WriteLine($"A = {area.ToString("F4", CultureInfo.InvariantCulture)}");
         }

@@ -14,14 +14,14 @@ namespace Desafio05
             Console.Write("Quantidade de peças 1: ");
             int qtd1 = int.Parse(Console.ReadLine());
             Console.Write("Valor de cada unidade da peça 1: ");
-            double valor1 = double.Parse(Console.ReadLine());
+            double valor1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             
             Console.Write("Código da peça 2: ");
             int codigo2 = int.Parse(Console.ReadLine());
             Console.Write("Quantidade de peças 2: ");
             int qtd2 = int.Parse(Console.ReadLine());
             Console.Write("Valor de cada unidade da peça 2: ");
-            double valor2 = double.Parse(Console.ReadLine());
+            double valor2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double reultado = (qtd1 * valor1) + (qtd2 * valor2);
 

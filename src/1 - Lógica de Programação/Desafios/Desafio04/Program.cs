@@ -13,7 +13,7 @@ namespace Desafio04
             Console.Write("Número de horas trabalhadas: ");
             int horas = int.Parse(Console.ReadLine());
             Console.Write("Valor que recebe por hora: ");
-            double valor = double.Parse(Console.ReadLine());
+            double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double salario = valor * horas;
 
