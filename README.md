@@ -147,18 +147,18 @@ Fazer um programa para ler o código de uma peça 1, o número de peças 1, o va
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-12  1  5.30    
-16  2  5.10 | Valor a pagar: R$ 15,50
+12  1  5,30    
+16  2  5,10 | Valor a pagar: R$ 15,50
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-13  2  15.30    
-161  4  5.20 | Valor a pagar: R$ 51,40
+13  2  15,30    
+161  4  5,20 | Valor a pagar: R$ 51,40
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-1  1  15.10    
-2  1  15.10 | Valor a pagar: R$ 30,20
+1  1  15,10    
+2  1  15,10 | Valor a pagar: R$ 30,20
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#aprendendo-c-e-poo)  
 
