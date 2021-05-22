@@ -124,19 +124,19 @@ Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 25  
 100  
-5,50 | Número: 25  Salário: R$ 550,00
+5.50 | Número: 25  Salário: R$ 550,00
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 1  
 200  
-20,50 | Número: 1  Salário: R$ 4100,00
+20.50 | Número: 1  Salário: R$ 4100,00
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 6  
 145  
-15,55 | Número: 6  Salário: R$ 2254,75
+15.55 | Número: 6  Salário: R$ 2254,75
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#aprendendo-c-e-poo)  
 
@@ -147,18 +147,18 @@ Fazer um programa para ler o código de uma peça 1, o número de peças 1, o va
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-12   1   5,30    
-16   2   5,10 | Valor a pagar: R$ 15,50
+12   1   5.30    
+16   2   5.10 | Valor a pagar: R$ 15,50
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-13   2   15,30    
-161   4   5,20 | Valor a pagar: R$ 51,40
+13   2   15.30    
+161   4   5.20 | Valor a pagar: R$ 51,40
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
-1   1   15,10    
-2   1   15,10 | Valor a pagar: R$ 30,20
+1   1   15.10    
+2   1   15.10 | Valor a pagar: R$ 30,20
 
 * [Voltar ao Início](https://github.com/YuriSiman/learn-csharp-oop#aprendendo-c-e-poo)  
 
