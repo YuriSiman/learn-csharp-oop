@@ -226,6 +226,8 @@ Exemplo de Entrada | Exemplo de Saída
 ## Desafio 09  
 Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "São Múltiplos" ou "Não são Múltiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.
 
+Observação: O número zero pertence ao conjunto dos inteiros e sabemos que qualquer número multiplicado por zero é igual a zero, ou seja, o número zero é múltiplo de todo número inteiro.
+
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
 6  24 | São múltiplos
