@@ -57,9 +57,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio05", "src\1 - Lógic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio06", "src\1 - Lógica de Programação\Desafios\Desafio06\Desafio06.csproj", "{7FCDBD69-1535-4020-9108-AB27C6DD81C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio07", "src\1 - Lógica de Programação\Desafios\Desafio07\Desafio07.csproj", "{9D078746-4116-4443-B494-91EBD6CB2A5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio07", "src\1 - Lógica de Programação\Desafios\Desafio07\Desafio07.csproj", "{9D078746-4116-4443-B494-91EBD6CB2A5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio08", "src\1 - Lógica de Programação\Desafios\Desafio08\Desafio08.csproj", "{DE52813C-9385-48C1-ADFC-A73D1158CBD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio08", "src\1 - Lógica de Programação\Desafios\Desafio08\Desafio08.csproj", "{DE52813C-9385-48C1-ADFC-A73D1158CBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio09", "src\1 - Lógica de Programação\Desafios\Desafio09\Desafio09.csproj", "{2D8FB86C-808A-453B-93CA-8B9915F3C293}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -275,6 +277,18 @@ Global
 		{DE52813C-9385-48C1-ADFC-A73D1158CBD1}.Release|x64.Build.0 = Release|Any CPU
 		{DE52813C-9385-48C1-ADFC-A73D1158CBD1}.Release|x86.ActiveCfg = Release|Any CPU
 		{DE52813C-9385-48C1-ADFC-A73D1158CBD1}.Release|x86.Build.0 = Release|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Debug|x64.Build.0 = Debug|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Debug|x86.Build.0 = Debug|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Release|x64.ActiveCfg = Release|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Release|x64.Build.0 = Release|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Release|x86.ActiveCfg = Release|Any CPU
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -308,6 +322,7 @@ Global
 		{7FCDBD69-1535-4020-9108-AB27C6DD81C7} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 		{9D078746-4116-4443-B494-91EBD6CB2A5B} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 		{DE52813C-9385-48C1-ADFC-A73D1158CBD1} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
+		{2D8FB86C-808A-453B-93CA-8B9915F3C293} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
