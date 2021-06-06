@@ -69,7 +69,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - POO", "2 - POO", "{954E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classes, Atributos e Métodos", "1 - Classes, Atributos e Métodos", "{B562C784-D349-423A-BE01-99A59C1DBDFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAtributosMetodos", "src\2 - POO\1 - Classes, Atributos e Métodos\ClassesAtributosMetodos\ClassesAtributosMetodos.csproj", "{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAtributosMetodos", "src\2 - POO\1 - Classes, Atributos e Métodos\ClassesAtributosMetodos\ClassesAtributosMetodos.csproj", "{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Construtores e Sobrecarga", "2 - Construtores e Sobrecarga", "{EDCBE9EE-FD13-46BB-8550-528D7BDAE3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresSobrecarga", "src\2 - POO\2 - Construtores e Sobrecarga\ConstrutoresSobrecarga\ConstrutoresSobrecarga.csproj", "{554604B7-ACE1-4570-9A48-F304660D6FE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +325,18 @@ Global
 		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x64.Build.0 = Release|Any CPU
 		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x86.ActiveCfg = Release|Any CPU
 		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x86.Build.0 = Release|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Debug|x64.Build.0 = Debug|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Debug|x86.Build.0 = Debug|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Release|x64.ActiveCfg = Release|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Release|x64.Build.0 = Release|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Release|x86.ActiveCfg = Release|Any CPU
+		{554604B7-ACE1-4570-9A48-F304660D6FE3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -359,6 +375,8 @@ Global
 		{954E75F5-C697-422E-8597-FA64D7139B98} = {110D6835-80C5-43DD-A8B1-3BBEB4E53D6F}
 		{B562C784-D349-423A-BE01-99A59C1DBDFC} = {954E75F5-C697-422E-8597-FA64D7139B98}
 		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA} = {B562C784-D349-423A-BE01-99A59C1DBDFC}
+		{EDCBE9EE-FD13-46BB-8550-528D7BDAE3D7} = {954E75F5-C697-422E-8597-FA64D7139B98}
+		{554604B7-ACE1-4570-9A48-F304660D6FE3} = {EDCBE9EE-FD13-46BB-8550-528D7BDAE3D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
