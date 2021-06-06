@@ -61,9 +61,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio07", "src\1 - Lógic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio08", "src\1 - Lógica de Programação\Desafios\Desafio08\Desafio08.csproj", "{DE52813C-9385-48C1-ADFC-A73D1158CBD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio09", "src\1 - Lógica de Programação\Desafios\Desafio09\Desafio09.csproj", "{2D8FB86C-808A-453B-93CA-8B9915F3C293}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio09", "src\1 - Lógica de Programação\Desafios\Desafio09\Desafio09.csproj", "{2D8FB86C-808A-453B-93CA-8B9915F3C293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio10", "src\1 - Lógica de Programação\Desafios\Desafio10\Desafio10.csproj", "{6FA11C99-4BC3-4FC0-85EB-F64857676C01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio10", "src\1 - Lógica de Programação\Desafios\Desafio10\Desafio10.csproj", "{6FA11C99-4BC3-4FC0-85EB-F64857676C01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - POO", "2 - POO", "{954E75F5-C697-422E-8597-FA64D7139B98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classes, Atributos e Métodos", "1 - Classes, Atributos e Métodos", "{B562C784-D349-423A-BE01-99A59C1DBDFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAtributosMetodos", "src\2 - POO\1 - Classes, Atributos e Métodos\ClassesAtributosMetodos\ClassesAtributosMetodos.csproj", "{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +309,18 @@ Global
 		{6FA11C99-4BC3-4FC0-85EB-F64857676C01}.Release|x64.Build.0 = Release|Any CPU
 		{6FA11C99-4BC3-4FC0-85EB-F64857676C01}.Release|x86.ActiveCfg = Release|Any CPU
 		{6FA11C99-4BC3-4FC0-85EB-F64857676C01}.Release|x86.Build.0 = Release|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Debug|x64.Build.0 = Debug|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Debug|x86.Build.0 = Debug|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x64.ActiveCfg = Release|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x64.Build.0 = Release|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x86.ActiveCfg = Release|Any CPU
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -338,6 +356,9 @@ Global
 		{DE52813C-9385-48C1-ADFC-A73D1158CBD1} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 		{2D8FB86C-808A-453B-93CA-8B9915F3C293} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 		{6FA11C99-4BC3-4FC0-85EB-F64857676C01} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
+		{954E75F5-C697-422E-8597-FA64D7139B98} = {110D6835-80C5-43DD-A8B1-3BBEB4E53D6F}
+		{B562C784-D349-423A-BE01-99A59C1DBDFC} = {954E75F5-C697-422E-8597-FA64D7139B98}
+		{B1CFA5D5-DA7D-4290-8732-CD2C20152CCA} = {B562C784-D349-423A-BE01-99A59C1DBDFC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
