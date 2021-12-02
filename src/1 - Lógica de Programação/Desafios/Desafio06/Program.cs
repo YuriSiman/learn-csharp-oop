@@ -15,10 +15,19 @@ namespace Desafio06
             Console.Write("Valor C: ");
             double c = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            // Área do Triângulo Retângulo - (base * altura) / 2
             double areaTrianguloRetangulo = (a * c) / 2;
+
+            // Área do Círculo - π * raio²
             double areaCirculo = 3.14159 * Math.Pow(c, 2);
-            double areaTrapezio = ((a + b) / 2) * c;
+
+            // Área do Trapézio - ((base + base) * altura) / 2
+            double areaTrapezio = ((a + b) * c) / 2;
+
+            // Área do Quadrado - lado²
             double areaQuadrado = Math.Pow(b, 2);
+
+            // Área do Retângulo - base * altura
             double areaRetangulo = a * b;
 
             Console.WriteLine($"TRIÂNGULO: {areaTrianguloRetangulo.ToString("F3", CultureInfo.InvariantCulture)}\n" +
