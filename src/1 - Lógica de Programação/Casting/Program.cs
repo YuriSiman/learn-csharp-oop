@@ -11,6 +11,12 @@ namespace Casting
 
             int result = a / (int)b;
             Console.WriteLine(result);
+
+            double c = 10 / 8;
+            Console.WriteLine(c);
+
+            c = (double) 10 / 8;
+            Console.WriteLine(c);
         }
     }
 }

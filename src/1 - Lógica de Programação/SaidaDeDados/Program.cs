@@ -14,12 +14,23 @@ namespace SaidaDeDados
             double medida = 53.23456700;
 
             Console.WriteLine("Produtos:");
-            Console.WriteLine($"{produto1}, cujo preço é R$ {preco1.ToString("F2")}");
-            Console.WriteLine($"{produto2}, cujo preço é R$ {preco2.ToString("F2")}\n");
+            Console.WriteLine($"{produto1}, cujo preço é R$ {preco1:F2}");
+            Console.WriteLine($"{produto2}, cujo preço é R$ {preco2:F2}\n");
             Console.WriteLine($"Registro: {idade} anos de idade, código {codigo} e gênero: {genero}\n");
-            Console.WriteLine($"Medida com oito casas decimais: {medida.ToString("F8")}");
-            Console.WriteLine($"Arredondado (três casas decimais): {medida.ToString("F3")}");
+            Console.WriteLine($"Medida com oito casas decimais: {medida:F8}");
+            Console.WriteLine($"Arredondado (três casas decimais): {medida:F3}");
             Console.WriteLine($"Separador decimal invariant culture: {medida.ToString("F3", CultureInfo.InvariantCulture)}");
+
+            //Exemplos de Saídas de Dados
+
+            //Placeholder
+            //Console.WriteLine("{0}, cujo preço é R$ {1:F2}", produto1, preco1);
+
+            //Interpolação
+            //Console.WriteLine($"{produto1}, cujo preço é R$ {preco1:F2}");
+
+            //Concatenação
+            //Console.WriteLine(produto1 + ", cujo preço é R$ " + preco1.ToString("F2"));
         }
     }
 }
