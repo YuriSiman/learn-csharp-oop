@@ -18,7 +18,7 @@ namespace EntradaDeDados
             double salario = double.Parse(vetor[2]);
             char letra = char.Parse(vetor[3]);
 
-            Console.WriteLine($"\nPrimeiro nome: {nome}\nIdade: {idade}\nSalário: R$ {salario.ToString("F2")}\nPrimeira letra do nome: {letra}");
+            Console.WriteLine($"\nPrimeiro nome: {nome}\nIdade: {idade}\nSalário: R$ {salario:F2}\nPrimeira letra do nome: {letra}");
         }
     }
 }
