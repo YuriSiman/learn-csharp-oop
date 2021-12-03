@@ -6,6 +6,7 @@ namespace OperadoresComparativosLogicos
     {
         static void Main(string[] args)
         {
+            // Precedência: ! > && > ||
             bool comparador1 = 2 > 3 || 4 != 5;
             bool comparador2 = !(2 > 3) && 4 != 5;
 
