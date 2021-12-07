@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-    <img src="./readme-images/c-sharp.png" alt="Logo" />
+    <img src="./readme-images/c-sharp.png" alt="Logo" width="100" height="100" />
     <h1 align="center">Lógica de Programação e POO com C#</h1>
     <p align="center">Desafios para praticar</p>
 </div>
