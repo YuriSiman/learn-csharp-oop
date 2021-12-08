@@ -4,26 +4,30 @@
 <div align="center">
     <img src="./readme-images/c-sharp.png" alt="Logo" width="100" height="100" />
     <h1 align="center">Lógica de Programação e POO com C#</h1>
-    <p align="center">Desafios para praticar</p>
+    <p align="center">Desafios para praticar e aprender</p>
 </div>
 
+<br/>
+
 <div align="center">
-    <a href="https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE">
+    <a href="https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE" target="_blank">
       <img alt="LICENSE" src="https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github" />
     </a>
-    <a href="https://github.com/YuriSiman">
-      <img alt="GitHub" src="https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github" />
+    <a href="https://github.com/YuriSiman" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/github-perfil-%237159c1?style=for-the-badge&logo=github" />
     </a>
-    <a href="https://yurisiman.com.br">
+    <a href="https://yurisiman.com.br" target="_blank">
       <img alt="Site" src="https://img.shields.io/badge/site-yurisiman-E0A80D?style=for-the-badge&logo=Purism" />
     </a>
-    <a href="https://www.linkedin.com/in/yurisiman/">
-      <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-profile-0A66C2?style=for-the-badge&logo=LinkedIn" />
+    <a href="https://www.linkedin.com/in/yurisiman/" target="_blank">
+      <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-social-0A66C2?style=for-the-badge&logo=LinkedIn" />
     </a>
-    <a href="mailto:contato@yurisiman.com.br">
-      <img alt="Gmail" src="https://img.shields.io/badge/email-contato@yurisiman.com.br-EA4335?style=for-the-badge&logo=Gmail" />
+    <a href="mailto:contato@yurisiman.com.br" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/email-contato-EA4335?style=for-the-badge&logo=Gmail" />
     </a>
 </div>
+
+<br/>
 
 ## :clipboard: Sobre o Projeto
 
@@ -625,7 +629,7 @@ Fazer um programa que imprima no console o desenho abaixo:
 
 ## :thinking: Contribuindo
 
-> Para começar...
+> Passo a passo de como contribuir...
 
 ### Passo 1
 
@@ -668,7 +672,9 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 
 ## :pencil: Licença
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE)  
+<a href="https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE" target="_blank">
+  <img alt="LICENSE" src="https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
