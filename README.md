@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-    <img src="./readme-images/c-sharp.png" alt="Logo" width="100" height="100" />
+    <img src="./readme-img/csharp-original.svg" alt="Logo" width="100" height="100" />
     <h1 align="center">Lógica de Programação e POO com C#</h1>
     <p align="center">Desafios para praticar e aprender</p>
 </div>
@@ -361,7 +361,7 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 13  
 Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0). Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
 
-<img src="./readme-images/desafio-13.png" />
+<img src="./readme-img/desafio-13.png" />
 
 Exemplo de Entrada | Exemplo de Saída
 ------------ | -------------
