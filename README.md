@@ -7,7 +7,23 @@
     <p align="center">Desafios para praticar</p>
 </div>
 
-[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE)[![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)[![Site](https://img.shields.io/badge/site-yurisiman-E0A80D?style=for-the-badge&logo=Purism)](https://yurisiman.com.br)[![Linkedin](https://img.shields.io/badge/linkedin-profile-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/yurisiman/)[![E-Mail](https://img.shields.io/badge/email-contato@yurisiman.com.br-EA4335?style=for-the-badge&logo=Gmail)](mailto:contato@yurisiman.com.br)  
+<div align="center">
+    <a href="https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE">
+      <img alt="LICENSE" src="https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://github.com/YuriSiman">
+      <img alt="GitHub" src="https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://yurisiman.com.br">
+      <img alt="Site" src="https://img.shields.io/badge/site-yurisiman-E0A80D?style=for-the-badge&logo=Purism" />
+    </a>
+    <a href="https://www.linkedin.com/in/yurisiman/">
+      <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-profile-0A66C2?style=for-the-badge&logo=LinkedIn" />
+    </a>
+    <a href="mailto:contato@yurisiman.com.br">
+      <img alt="Gmail" src="https://img.shields.io/badge/email-contato@yurisiman.com.br-EA4335?style=for-the-badge&logo=Gmail" />
+    </a>
+</div>
 
 ## :clipboard: Sobre o Projeto
 
