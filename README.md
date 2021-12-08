@@ -7,15 +7,13 @@
     <p align="center">Desafios para praticar</p>
 </div>
 
-[![Contributors][contributors-shield]][contributors-url][![Forks][forks-shield]][forks-url][![Stargazers][stars-shield]][stars-url][![Issues][issues-shield]][issues-url][![MIT License][license-shield]][license-url][![LinkedIn][linkedin-shield]][linkedin-url]
+[![License](https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github)](https://github.com/YuriSiman/learn-csharp-oop/blob/master/LICENSE)[![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)[![Site](https://img.shields.io/badge/site-yurisiman-E0A80D?style=for-the-badge&logo=Purism)](https://yurisiman.com.br)[![Linkedin](https://img.shields.io/badge/linkedin-profile-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/yurisiman/)[![E-Mail](https://img.shields.io/badge/email-contato@yurisiman.com.br-EA4335?style=for-the-badge&logo=Gmail)](mailto:contato@yurisiman.com.br)  
 
 ## :clipboard: Sobre o Projeto
 
 Este repositório tem como objetvo reunir diversos exercícios de lógica de programação e POO para que você possa estudar e aprender na prática concluindos desafios, seja você um iniciante ou alguém mais avançado. O código com as resoluções dos desafios está escrito em C# e possui um link direto no final de cada exercício. 
 
 Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons estudos! :smiley::coffee:
-
-<p align="right"><a href="#top">Início ↑</a></p>
 
 ---
 
@@ -28,8 +26,6 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
    git clone https://github.com/YuriSiman/learn-csharp-oop.git
    ```
 
-<p align="right"><a href="#top">Início ↑</a></p>
-
 ---
 
 ## :dart: Tabela de Desafios
@@ -37,33 +33,47 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
 <details>
   <summary>Lógica de Programação</summary>
   <ul>
-    <li><a href="#usage">Desafio 01</a></li>
-    <li><a href="#roadmap">Desafio 02</a></li>
-    <li><a href="#contributing">Desafio 03</a></li>
-    <li><a href="#license">Desafio 04</a></li>
-    <li><a href="#contact">Desafio 05</a></li>
-    <li><a href="#acknowledgments">Desafio 06</a></li>
+    <li><a href="#desafio01">Desafio 01</a></li>
+    <li><a href="#desafio02">Desafio 02</a></li>
+    <li><a href="#desafio03">Desafio 03</a></li>
+    <li><a href="#desafio04">Desafio 04</a></li>
+    <li><a href="#desafio05">Desafio 05</a></li>
+    <li><a href="#desafio06">Desafio 06</a></li>
+    <li><a href="#desafio07">Desafio 07</a></li>
+    <li><a href="#desafio08">Desafio 08</a></li>
+    <li><a href="#desafio09">Desafio 09</a></li>
+    <li><a href="#desafio10">Desafio 10</a></li>
+    <li><a href="#desafio11">Desafio 11</a></li>
+    <li><a href="#desafio12">Desafio 12</a></li>
+    <li><a href="#desafio13">Desafio 13</a></li>
+    <li><a href="#desafio14">Desafio 14</a></li>
+    <li><a href="#desafio15">Desafio 15</a></li>
+    <li><a href="#desafio16">Desafio 16</a></li>
+    <li><a href="#desafio17">Desafio 17</a></li>
+    <li><a href="#desafio18">Desafio 18</a></li>
+    <li><a href="#desafio19">Desafio 19</a></li>
+    <li><a href="#desafio20">Desafio 20</a></li>
+    <li><a href="#desafio21">Desafio 21</a></li>
+    <li><a href="#desafio22">Desafio 22</a></li>
+    <li><a href="#desafio23">Desafio 23</a></li>
+    <li><a href="#desafio24">Desafio 24</a></li>
+    <li><a href="#desafio25">Desafio 25</a></li>
   </ul>
 </details>
 <details>
   <summary>POO</summary>
   <ul>
-    <li><a href="#usage">Desafio 01</a></li>
-    <li><a href="#roadmap">Desafio 02</a></li>
-    <li><a href="#contributing">Desafio 03</a></li>
-    <li><a href="#license">Desafio 04</a></li>
-    <li><a href="#contact">Desafio 05</a></li>
-    <li><a href="#acknowledgments">Desafio 06</a></li>
+    
   </ul>
 </details>
-
-<p align="right"><a href="#top">Início ↑</a></p>
 
 ---
 
 ## :rocket: Vamos Começar
 
 ### Lógica de Programação
+
+<div id="desafio01"></div>
 
 ### Desafio 01  
 Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa, conforme exemplos:
@@ -83,6 +93,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio02"></div>
 
 ### Desafio 02  
 Faça um programa para ler o valor do diâmetro de um círculo e, com isso, calcular o seu raio. Depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos:  
@@ -106,6 +118,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio03"></div>
+
 ### Desafio 03  
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D.
 
@@ -120,6 +134,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio04"></div>
 
 ### Desafio 04  
 Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
@@ -140,6 +156,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio05"></div>
+
 ### Desafio 05  
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
 
@@ -158,6 +176,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>  
 
 ---
+
+<div id="desafio06"></div>
 
 ### Desafio 06  
 Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:  
@@ -180,6 +200,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio07"></div>
+
 ### Desafio 07  
 Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.  
 
@@ -199,6 +221,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio08"></div>
+
 ### Desafio 08  
 Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.  
 
@@ -217,6 +241,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio09"></div>
 
 ### Desafio 09  
 Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "São Múltiplos" ou "Não são Múltiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em ordem crescente ou decrescente.
@@ -239,6 +265,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio10"></div>
+
 ### Desafio 10  
 Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
 
@@ -257,6 +285,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio11"></div>
 
 ### Desafio 11  
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
@@ -281,6 +311,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio12"></div>
+
 ### Desafio 12  
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos (0,25), (25,50), (50,75), (75,100) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 
@@ -304,6 +336,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio13"></div>
+
 ### Desafio 13  
 Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0). Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
 
@@ -324,6 +358,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p> 
 
 ---
+
+<div id="desafio14"></div>
 
 ### Desafio 14  
 Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$. Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo:
@@ -353,6 +389,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio15"></div>
+
 ### Desafio 15  
 Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.
 
@@ -375,6 +413,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio16"></div>
 
 ### Desafio 16  
 Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).
@@ -403,6 +443,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio17"></div>
+
 ### Desafio 17  
 Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até 
 que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
@@ -420,6 +462,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio18"></div>
+
 ### Desafio 18  
 Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
 
@@ -434,6 +478,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio19"></div>
+
 ### Desafio 19  
 Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando essas informações conforme exemplo (use a palavra "in" para dentro do intervalo, e "out" para fora do intervalo).
 
@@ -444,6 +490,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio20"></div>
 
 ### Desafio 20  
 Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, cada um deles com uma casa decimal. Apresente a média ponderada para cada um destes conjuntos de 3 valores, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5.
@@ -459,6 +507,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio21"></div>
+
 ### Desafio 21  
 Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem "divisao impossivel".
 
@@ -472,6 +522,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio22"></div>
 
 ### Desafio 22  
 Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1. Lembrando que, por definição, fatorial de 0 é 1.
@@ -496,6 +548,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ---
 
+<div id="desafio23"></div>
+
 ### Desafio 23  
 Ler um número inteiro N e calcular todos os seus divisores.
 
@@ -506,6 +560,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio24"></div>
 
 ### Desafio 24  
 Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor, conforme exemplo.
@@ -522,6 +578,8 @@ Exemplo de Entrada | Exemplo de Saída
 <p align="right"><a href="#top">Início ↑</a></p>
 
 ---
+
+<div id="desafio25"></div>
 
 ### Desafio 25  
 Fazer um programa que imprima no console o desenho abaixo:
@@ -589,9 +647,6 @@ Depois que seu pull request for mesclado, você pode excluir sua feature branch
 
 * Me chame pelo [Linkedin](https://www.linkedin.com/in/yurisiman/)  
 * Me mande um e-mail [contato@yurisiman.com.br](mailto:contato@yurisiman.com.br)  
-
-[![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/YuriSiman)  
-[![Curriculum](https://img.shields.io/badge/site-curriculum-%23563D7C?style=for-the-badge&logo=bootstrap)](https://yurisiman.com.br)  
 
 ---
 
