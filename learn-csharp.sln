@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio22", "src\1 - Lógic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio23", "src\1 - Lógica de Programação\Desafios\Desafio23\Desafio23.csproj", "{B40C3D3D-0E00-4C67-A110-1A89B3E9A41F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio24", "src\1 - Lógica de Programação\Desafios\Desafio24\Desafio24.csproj", "{1C656469-8ACC-450A-B055-69015256CD88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -517,6 +519,18 @@ Global
 		{B40C3D3D-0E00-4C67-A110-1A89B3E9A41F}.Release|x64.Build.0 = Release|Any CPU
 		{B40C3D3D-0E00-4C67-A110-1A89B3E9A41F}.Release|x86.ActiveCfg = Release|Any CPU
 		{B40C3D3D-0E00-4C67-A110-1A89B3E9A41F}.Release|x86.Build.0 = Release|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Debug|x64.Build.0 = Debug|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Debug|x86.Build.0 = Debug|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Release|x64.ActiveCfg = Release|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Release|x64.Build.0 = Release|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C656469-8ACC-450A-B055-69015256CD88}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -563,6 +577,7 @@ Global
 		{2D5BD6BD-CD00-4F54-9095-683DD2A96D15} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 		{8C0FB063-E089-4855-A3DE-B0E1EF9A5456} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 		{B40C3D3D-0E00-4C67-A110-1A89B3E9A41F} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
+		{1C656469-8ACC-450A-B055-69015256CD88} = {5C46B321-24FA-4964-A7DF-1FD4A4D2F538}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
