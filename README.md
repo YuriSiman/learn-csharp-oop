@@ -96,19 +96,32 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
 <div id="desafio01"></div>
 
 ### Desafio 01  
-Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma mensagem explicativa, conforme exemplos:
+Faça um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas válidas), em seguida, mostre o valor das áreas dos dois triângulos e também informe qual dos dois triângulos possui a maior área.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-10 30 | SOMA = 40
+A fórmula para calcular a área de um triângulo a partir das medidas de seus lados **a**, **b** e **c** é a seguinte (fórmula de Heron):
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
--30 10 | SOMA = -20
+<img src="./readme-img/formula-de-heron.png" alt="Fórmula de Heron" />
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0 0 | SOMA = 0
+```console
+Exemplo de Entrada:
+
+Entre com as medidas do triângulo X:
+3.00
+4.00
+5.00
+
+Entre com as medidas do triângulo Y:
+7.50
+4.50
+4.02
+
+Exemplo de Saída:
+
+Área de X = 6.0000
+Área de Y = 7.5638 
+Maior área: Y
+
+```
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
