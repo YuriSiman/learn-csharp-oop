@@ -23,7 +23,7 @@
 
         public override string ToString()
         {
-            return $"{Nome}, R$ {Preco.ToString("F2")}, {Quantidade}, R$ {ValorTotalEmEstoque().ToString("F2")}";
+            return $"{Nome}, R$ {Preco:F2}, {Quantidade}, R$ {ValorTotalEmEstoque():F2}";
         }
     }
 }

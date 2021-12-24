@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Desafio01
 {
@@ -7,22 +8,23 @@ namespace Desafio01
         static void Main(string[] args)
         {
             Console.WriteLine("Entre com as medidas do triângulo X: ");
-            double aX = double.Parse(Console.ReadLine());
-            double bX = double.Parse(Console.ReadLine());
-            double cX = double.Parse(Console.ReadLine());
+            double aX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double bX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double cX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Entre com as medidas do triângulo Y: ");
-            double aY = double.Parse(Console.ReadLine());
-            double bY = double.Parse(Console.ReadLine());
-            double cY = double.Parse(Console.ReadLine());
+            double aY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double bY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double cY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double pX = (aX + bX + cX) / 2;
-            double pY = (aY + bY + cY) / 2;
-            double areaX = Math.Sqrt(pX * (pX - aX) * (pX - bX) * (pX - cX));
-            double areaY = Math.Sqrt(pY * (pY - aY) * (pY - bY) * (pY - cY));
+            double p = (aX + bX + cX) / 2;
+            double areaX = Math.Sqrt(p * (p - aX) * (p - bX) * (p - cX));
+
+            p = (aY + bY + cY) / 2;
+            double areaY = Math.Sqrt(p * (p - aY) * (p - bY) * (p - cY));
             char maiorArea = areaX > areaY ? 'X' : 'Y';
 
-            Console.WriteLine($"Área de X: {areaX:F4}\nÁrea de X: {areaY:F4}\nMaior Área: {maiorArea}");
+            Console.WriteLine($"Área de X: {areaX.ToString("F4", CultureInfo.InvariantCulture)}\nÁrea de X: {areaY.ToString("F4", CultureInfo.InvariantCulture)}\nMaior Área: {maiorArea}");
         }
     }
 }
