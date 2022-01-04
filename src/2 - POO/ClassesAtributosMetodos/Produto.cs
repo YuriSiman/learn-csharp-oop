@@ -23,7 +23,7 @@
 
         public override string ToString()
         {
-            return $"{Nome}, R$ {Preco:F2}, {Quantidade}, R$ {ValorTotalEmEstoque():F2}";
+            return $"\n\nNome do Produto: {Nome}\nPreço por Unidade: R$ {Preco:F2}\nQuantidade em Estoque: {Quantidade}\nValor Total em Estoque: R$ {ValorTotalEmEstoque():F2}";
         }
     }
 }

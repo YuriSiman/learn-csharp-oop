@@ -17,17 +17,17 @@ namespace ClassesAtributosMetodos
             Console.Write("Quantidade no Estoque: ");
             produto.Quantidade = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Dados do Produto: {produto}");
+            Console.WriteLine($"\nDados do Produto {produto}");
             
-            Console.Write("Digite o número de produtos a ser adicionado ao estoque: ");
+            Console.Write("\nDigite o número de produtos a ser adicionado ao estoque: ");
             produto.AdicionarProdutos(int.Parse(Console.ReadLine()));
 
-            Console.WriteLine($"Dados Atualizados: {produto}");
+            Console.WriteLine($"\nDados Atualizados: {produto}");
 
-            Console.Write("Digite o número de produtos a ser removido do estoque: ");
+            Console.Write("\nDigite o número de produtos a ser removido do estoque: ");
             produto.RemoverProdutos(int.Parse(Console.ReadLine()));
 
-            Console.WriteLine($"Dados Atualizados: {produto}");
+            Console.WriteLine($"\nDados Atualizados: {produto}");
         }
     }
 }

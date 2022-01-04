@@ -83,7 +83,9 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
 <details>
   <summary>POO</summary>
   <ul>
-    
+    <li><a href="#desafio01-poo">Desafio 01</a></li>
+    <li><a href="#desafio02-poo">Desafio 02</a></li>
+    <li><a href="#desafio03-poo">Desafio 03</a></li>
   </ul>
 </details>
 
@@ -120,7 +122,6 @@ Exemplo de Saída:
 Área de X = 6.0000
 Área de Y = 7.5638 
 Maior área: Y
-
 ```
 
 <p align="right"><a href="#top">Início ↑</a></p>
@@ -628,6 +629,83 @@ Fazer um programa que imprima no console o desenho abaixo:
 ********
 *********
 **********
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+### POO
+
+<div id="desafio01-poo"></div>
+
+### Desafio 01  
+Faça um programa para ler os valores da base e altura de um retângulo. Em seguida, mostre na tela o valor de sua área, perímetro e diagonal. Use uma classe para representar o Retângulo.
+
+```console
+Exemplo de Entrada:
+
+Digite a base e altura do retângulo
+
+Base: 3,00
+Altura: 4,00
+
+Exemplo de Saída:
+
+Área: 12,00
+Perímetro: 14,00
+Diagonal: 5,00
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="desafio02-poo"></div>
+
+### Desafio 02  
+Faça um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostre os dados do funcionário (nome e salário líquido).
+Em seguida, aumente o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostre
+novamente os dados do funcionário. Use uma classe para representar o Funcionário.
+
+```console
+Exemplo de Entrada:
+
+Informe os dados do funcionário
+Nome: João Maria
+Salário Bruto: 6000,00
+Imposto: 1000,00
+
+Exemplo de Saída:
+
+Dados do Funcionário
+Nome: João Maria
+Salário Líquido: R$ 5000,00
+
+Exemplo de Entrada:
+
+Informe a porcentagem para aumentar o salário: 10,00
+
+Exemplo de Saída:
+
+Dados Atualizados do Funcionário
+Nome: João Maria
+Salário Líquido: R$ 5600,00
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="desafio03-poo"></div>
+
+### Desafio 03  
+Faça um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano (primeiro trimestre vale 30 e o 
+segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está APROVADO ou REPROVADO e,
+em caso negativo, quantos pontos faltam para o aluno obter o mínimo para ser aprovado (que é 60 pontos). Crie uma classe para representar o Aluno.
+
+```console
+
 ```
 
 <p align="right"><a href="#top">Início ↑</a></p>
