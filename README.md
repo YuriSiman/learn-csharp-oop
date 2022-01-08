@@ -86,6 +86,7 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
     <li><a href="#desafio01-poo">Desafio 01</a></li>
     <li><a href="#desafio02-poo">Desafio 02</a></li>
     <li><a href="#desafio03-poo">Desafio 03</a></li>
+    <li><a href="#desafio04-poo">Desafio 04</a></li>
   </ul>
 </details>
 
@@ -705,6 +706,48 @@ segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno 
 em caso negativo, quantos pontos faltam para o aluno obter o mínimo para ser aprovado (que é 60 pontos). Crie uma classe para representar o Aluno.
 
 ```console
+Exemplo de Entrada
+
+Informe o nome do aluno: João Maria
+
+Informe a 1ª nota: 30
+
+Informe a 2ª nota: 30
+
+Informe a 3ª nota: 35
+
+Exemplo de Saída
+
+Nota Final: 95,00
+Situação: APROVADO
+Nota Restante: 0,00
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="desafio04-poo"></div>
+
+### Desafio 04  
+Em um banco, para se cadastrar uma conta bancária, é necessário informar o número da conta, o nome do titular da conta, e o valor de depósito inicial que o titular 
+depositou ao abrir a conta. Este valor de depósito inicial, entretanto, é opcional, ou seja: se o titular não tiver dinheiro a depositar no momento de abrir sua
+conta, o depósito inicial não será feito e o saldo inicial da conta será, naturalmente, zero. **Importante**: uma vez que uma conta bancária foi aberta, o número da 
+conta nunca poderá ser alterado. Já o nome do titular pode ser alterado (pois uma pessoa pode mudar de nome por ocasião de casamento, por
+exemplo). Por fim, o saldo da conta não pode ser alterado livremente. É preciso haver um mecanismo para proteger isso. O saldo só aumenta por meio de depósitos, e 
+só diminui por meio de saques. Para cada saque realizado, o banco cobra uma taxa de $ 5.00. Nota: a conta pode ficar com saldo negativo se o saldo não for
+suficiente para realizar o saque e/ou pagar a taxa. Você deve fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não
+informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre mostrando os dados da conta após cada operação.
+
+Criei uma classe para representar a ContaBancaria. Crie um MENU para mostrar ao usuário as opções do sistema bancário conforme o exemplo de entrada abaixo.
+
+```console
+Exemplo de Entrada
+
+
+
+Exemplo de Saída
+
 
 ```
 

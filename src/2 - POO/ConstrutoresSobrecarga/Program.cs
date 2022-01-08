@@ -17,6 +17,8 @@ namespace ConstrutoresSobrecarga
 
             Produto produto = new Produto(nome, preco, quantidade);
 
+            // Sintaxe alternativa para inicializar valores 
+
             //Produto produto = new Produto
             //{
             //    Nome = nome,
