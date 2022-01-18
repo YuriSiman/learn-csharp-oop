@@ -6,11 +6,11 @@
         public string Titular { get; set; }
         public decimal Saldo { get; private set; }
 
-        public ContaBancaria(int numero, string titular, decimal saldo)
+        public ContaBancaria(int numero, string titular, decimal deposito)
         {
             Numero = numero;
             Titular = titular;
-            Saldo = saldo;
+            Deposito(deposito);
         }
 
         public void Deposito(decimal valor)

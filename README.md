@@ -744,11 +744,32 @@ Criei uma classe para representar a ContaBancaria. Crie um MENU para mostrar ao 
 ```console
 Exemplo de Entrada
 
+Informe o número da conta: 123456
+Informe o nome do Titular da conta: Yuri Siman
+Informe o valor de depósito inicial da conta: 1000
 
+Exemplo de Menu a ser exibido
 
-Exemplo de Saída
+Informe a operação desejada
 
+[1] - DEPÓSITO
+[2] - SAQUE
+[3] - DADOS DA CONTA
+[0] - SAIR
 
+Exemplo de Entrada para Depósito
+
+Informe o valor para depósito: 1000
+
+Exemplo de Entrada para Saque
+
+Informe o valor para saque: 50
+
+Exemplo de Saída de Dados da Conta
+
+Conta 123456
+Titular: Yuri Siman
+Saldo: R$ 1945,00
 ```
 
 <p align="right"><a href="#top">Início ↑</a></p>
