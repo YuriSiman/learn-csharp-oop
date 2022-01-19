@@ -78,6 +78,7 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
     <li><a href="#desafio23">Desafio 23</a></li>
     <li><a href="#desafio24">Desafio 24</a></li>
     <li><a href="#desafio25">Desafio 25</a></li>
+    <li><a href="#desafio26">Desafio 26</a></li>
   </ul>
 </details>
 <details>
@@ -630,6 +631,50 @@ Fazer um programa que imprima no console o desenho abaixo:
 ********
 *********
 **********
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="desafio26"></div>
+
+### Desafio 26  
+A dona de um pensionato possui dez quartos para alugar para estudantes, sendo esses quartos identificados pelos números 0 a 9. Quando um estudante deseja alugar um quarto, deve-se registrar o nome
+e email deste estudante, assim como o quarto que ele escolher. Faça um programa que inicie com todos os dez quartos vazios e depois leia uma quantidade N representando o número de estudantes que vão
+alugar quartos (N pode ser de 1 a 10). Em seguida, registre o aluguel dos N estudantes. Para cada registro de aluguel, informar o nome e email do estudante, bem como qual dos quartos ele escolheu (de 0 a 9). 
+Não é permitido escolher um quarto que já está alugado. Ao final, seu programa deve imprimir um relatório de todas ocupações do pensionato, por ordem crescente de quarto, conforme exemplo.
+
+```
+Exemplo de Entrada
+
+Quantos quartos serão alugados?
+3
+
+====== REGISTRO DE ALUGUEL ======
+
+>> Aluguel 1
+Nome do estudante: Yuri
+Email do estudante: teste@teste.com
+Quarto escolhido pelo estudante [0 - 9]: 5
+
+>> Aluguel 2
+Nome do estudante: Vitória
+Email do estudante: teste@teste.com
+Quarto escolhido pelo estudante [0 - 9]: 8
+
+>> Aluguel 3
+Nome do estudante: Felipe
+Email do estudante: teste@teste.com
+Quarto escolhido pelo estudante [0 - 9]: 1
+
+Exemplo de Saída
+
+====== QUARTOS OCUPADOS ======
+
+Nome: Felipe, Email: teste@teste.com, Quarto: 1
+Nome: Yuri, Email: teste@teste.com, Quarto: 5
+Nome: Vitória, Email: teste@teste.com, Quarto: 8
 ```
 
 <p align="right"><a href="#top">Início ↑</a></p>
