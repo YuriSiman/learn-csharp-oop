@@ -13,3 +13,6 @@ int triplicar;
 
 Calculadora.TriplicarOut(b, out triplicar);
 Console.WriteLine(triplicar);
+
+
+// Obs: Ambos são considerados "code smells" (design ruim) e devem ser evitados
