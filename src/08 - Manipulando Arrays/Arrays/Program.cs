@@ -17,12 +17,11 @@ Console.Write("\nArray depois da cópia: ");
 Array.Copy(array, arrayCopia, array.Length);
 ImprimirArray(arrayCopia);
 
-
-
-
-
-
-
+Console.WriteLine("\n\n====== Verificando um elemento existente em um Array ======");
+Console.Write("\nVerificando se existe o número 5 no array: ");
+int valor = 5;
+string retorno = Array.Exists(array, x => x == valor) ? $"O valor {valor} foi encontrado no Array" : $"O valor {valor} não foi encontrado no Array";
+Console.Write(retorno);
 
 void ImprimirArray(int[] array)
 {
