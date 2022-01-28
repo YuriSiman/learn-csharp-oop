@@ -20,6 +20,12 @@
             }
         }
 
+        public void OrdenarArray(ref int[] array)
+        {
+            // Opção de ordenar um array utilizando a classe Array do C#
+            Array.Sort(array);
+        }
+
         public void ImprimirArray(int[] array)
         {
             for (int i = 0; i < array.Length; i++)
