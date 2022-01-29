@@ -53,7 +53,6 @@ foreach (var item in list2)
 }
 
 
-
 // Removendo elementos da lista
 list.Remove("João");
 Console.WriteLine("\nRemovendo o nome 'João' da lista:\n");
@@ -86,3 +85,20 @@ foreach (var item in list)
     Console.WriteLine(item);
 }
 
+// Adicionando um array de elementos na lista
+string[] novosNomes = new string[] { "Luana", "Thales", "Bruno" };
+Console.WriteLine("\nAdicionando os nomes Luana, Thales e Bruno na lista:\n");
+list.AddRange(novosNomes);
+foreach (var item in list)
+{
+    Console.WriteLine(item);
+}
+
+// Adicionando um elemento na posição desejada
+string novoNome = "Yuri";
+Console.WriteLine("\nAdicionando o nome Yuri na segunda posição da lista:\n");
+list.Insert(1, novoNome);
+foreach (var item in list)
+{
+    Console.WriteLine(item);
+}
