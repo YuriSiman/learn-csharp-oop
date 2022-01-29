@@ -155,9 +155,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmos", "src\09 - Algo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "src\08 - Manipulando Arrays\Arrays\Arrays.csproj", "{49D4BC30-2A67-4D9A-B566-583865AA4756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "src\07 - Collections\Queue\Queue.csproj", "{0880A71F-9F43-4DEE-8FBA-07EDAB70BF7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "src\07 - Collections\Queue\Queue.csproj", "{0880A71F-9F43-4DEE-8FBA-07EDAB70BF7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "src\07 - Collections\Stack\Stack.csproj", "{21A6E6B4-39A8-4531-A5FF-81613B9C27B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "src\07 - Collections\Stack\Stack.csproj", "{21A6E6B4-39A8-4531-A5FF-81613B9C27B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "src\07 - Collections\Dictionary\Dictionary.csproj", "{ED543E11-851F-45D8-9E21-E580C09F5C96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -853,6 +855,18 @@ Global
 		{21A6E6B4-39A8-4531-A5FF-81613B9C27B7}.Release|x64.Build.0 = Release|Any CPU
 		{21A6E6B4-39A8-4531-A5FF-81613B9C27B7}.Release|x86.ActiveCfg = Release|Any CPU
 		{21A6E6B4-39A8-4531-A5FF-81613B9C27B7}.Release|x86.Build.0 = Release|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Debug|x64.Build.0 = Debug|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Debug|x86.Build.0 = Debug|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Release|x64.ActiveCfg = Release|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Release|x64.Build.0 = Release|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Release|x86.ActiveCfg = Release|Any CPU
+		{ED543E11-851F-45D8-9E21-E580C09F5C96}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -935,6 +949,7 @@ Global
 		{49D4BC30-2A67-4D9A-B566-583865AA4756} = {A1120C46-36A2-46F4-ADDC-B5E792909FE8}
 		{0880A71F-9F43-4DEE-8FBA-07EDAB70BF7E} = {691D43BE-1DA0-40FF-BAA1-EE9DF5448A82}
 		{21A6E6B4-39A8-4531-A5FF-81613B9C27B7} = {691D43BE-1DA0-40FF-BAA1-EE9DF5448A82}
+		{ED543E11-851F-45D8-9E21-E580C09F5C96} = {691D43BE-1DA0-40FF-BAA1-EE9DF5448A82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53A13454-AD42-4D1C-8368-4155B4538832}
