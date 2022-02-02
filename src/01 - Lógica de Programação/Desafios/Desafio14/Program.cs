@@ -1,4 +1,4 @@
-﻿Console.Write("Salário: ");
+﻿Console.Write("Salário em R$: ");
 double salario = double.Parse(Console.ReadLine());
 
 double imposto;
@@ -22,10 +22,10 @@ else
 
 if (imposto == 0.0)
 {
-    Console.WriteLine("Isento");
+    Console.WriteLine("\nIsento");
 }
 else
 {
-    Console.WriteLine($"Imposto de Renda: R$ {imposto:F2}");
+    Console.WriteLine($"\nImposto de Renda: R$ {imposto:F2}");
 }
 

@@ -3,7 +3,7 @@ int x = int.Parse(Console.ReadLine());
 
 while(x < 1 || x > 1000)
 {
-    Console.Write("Valor Inválido!\nDigite um valor inteiro de 1 a 1000: ");
+    Console.Write("\n[ Valor Inválido ]\n\nDigite um valor inteiro de 1 a 1000: ");
     x = int.Parse(Console.ReadLine());
 }
 

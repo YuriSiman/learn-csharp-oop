@@ -17,5 +17,5 @@ for (int i = 1; i <= qtd; i++)
     }
 }
 
-Console.WriteLine($"{dentro} in\n{fora} out");
+Console.WriteLine($"\n{dentro} in\n{fora} out");
 

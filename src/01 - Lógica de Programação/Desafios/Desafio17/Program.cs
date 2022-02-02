@@ -8,7 +8,7 @@ while(combustivel != 4)
 
     if (combustivel < 1 || combustivel > 4)
     {
-        Console.WriteLine($"Código [{combustivel}] Inválido! Informe um novo código.");
+        Console.WriteLine($"\nCódigo [{combustivel}] Inválido! Informe um novo código.\n");
     }
     else if(combustivel == 1)
     {
@@ -24,5 +24,5 @@ while(combustivel != 4)
     }
 }
 
-Console.WriteLine($"\n\nMuito Obrigado!\nÁlcool: {alcool}\nGasolina: {gasolina}\nDiesel: {diesel}");
+Console.WriteLine($"\n\nMuito Obrigado!\n\nÁlcool: {alcool}\nGasolina: {gasolina}\nDiesel: {diesel}");
 

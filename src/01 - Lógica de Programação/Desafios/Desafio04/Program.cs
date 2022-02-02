@@ -7,7 +7,7 @@ namespace Desafio04
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite as informações do funcionário");
+            Console.WriteLine("Digite as informações do funcionário\n");
             Console.Write("Número do funcionário: ");
             int numero = int.Parse(Console.ReadLine());
             Console.Write("Número de horas trabalhadas: ");
@@ -17,7 +17,7 @@ namespace Desafio04
 
             double salario = valor * horas;
 
-            Console.WriteLine($"Número do funcionário: {numero} - Salário: R$ {salario:F2}");
+            Console.WriteLine($"\nNúmero do funcionário: {numero}\nSalário: R$ {salario:F2}");
         }
     }
 }

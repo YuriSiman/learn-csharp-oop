@@ -1,5 +1,5 @@
 ﻿
-Console.Write("Coordenada X: ");
+Console.Write("\nCoordenada X: ");
 int x = int.Parse(Console.ReadLine());
 
 Console.Write("Coordenada Y: ");
@@ -12,26 +12,26 @@ while(x != 0 && y != 0)
     {
         if(y < 0)
         {
-            Console.WriteLine("Terceiro");
+            Console.WriteLine("\nTerceiro");
         }
         else
         {
-            Console.WriteLine("Segundo");
+            Console.WriteLine("\nSegundo");
         }
     }
     else
     {
         if (y < 0)
         {
-            Console.WriteLine("Quarto");
+            Console.WriteLine("\nQuarto");
         }
         else
         {
-            Console.WriteLine("Primeiro");
+            Console.WriteLine("\nPrimeiro");
         }
     }
 
-    Console.Write("Coordenada X: ");
+    Console.Write("\nCoordenada X: ");
     x = int.Parse(Console.ReadLine());
 
     Console.Write("Coordenada Y: ");

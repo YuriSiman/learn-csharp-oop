@@ -17,7 +17,7 @@ namespace Desafio03
             int d = int.Parse(Console.ReadLine());
 
             int diferenca = (a * b) - (c * d);
-            Console.WriteLine($"Diferença = {diferenca}");
+            Console.WriteLine($"\nDiferença = {diferenca}");
         }
     }
 }

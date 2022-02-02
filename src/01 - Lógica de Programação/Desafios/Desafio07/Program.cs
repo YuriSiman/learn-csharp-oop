@@ -11,11 +11,11 @@ namespace Desafio07
 
             if(numero < 0)
             {
-                Console.WriteLine("NEGATIVO");
+                Console.WriteLine("\nNEGATIVO");
             }
             else
             {
-                Console.WriteLine("NÃO NEGATIVO");
+                Console.WriteLine("\nNÃO NEGATIVO");
             }
         }
     }

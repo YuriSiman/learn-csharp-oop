@@ -112,25 +112,9 @@ A fórmula para calcular a área de um triângulo a partir das medidas de seus l
 
 <img src="./readme-img/formula-de-heron.png" alt="Fórmula de Heron" />
 
-```console
-Exemplo de Entrada:
+Exemplo de Console:
 
-Entre com as medidas do triângulo X:
-3.00
-4.00
-5.00
-
-Entre com as medidas do triângulo Y:
-7.50
-4.50
-4.02
-
-Exemplo de Saída:
-
-Área de X = 6.0000
-Área de Y = 7.5638 
-Maior área: Y
-```
+<img src="./readme-img/desafio01.png" alt="desafio01" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -144,17 +128,9 @@ Faça um programa para ler o valor do diâmetro de um círculo e, com isso, calc
 Fórmula da área: area = π . raio^2
 Considere o valor de π = 3.14159
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2.00 | A = 3.1416
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-100.64 | A = 7954.8276
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-150.00 | A = 17671.4437
+<img src="./readme-img/desafio02.png" alt="desafio02" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -165,13 +141,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 03  
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-5 6 7 8 | DIFERENÇA = -26
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-5 6 -7 8 | DIFERENÇA = 86
+<img src="./readme-img/desafio03.png" alt="desafio03" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -182,17 +154,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 04  
 Fazer um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-25 100 5.50 | Número: 25  Salário: R$ 550,00
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-1 200 20.50 | Número: 1  Salário: R$ 4100,00
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-6 145 15.55 | Número: 6  Salário: R$ 2254,75
+<img src="./readme-img/desafio04.png" alt="desafio04" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -203,17 +167,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 05  
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-12 1 5.30 16 2 5.10 | Valor a pagar: R$ 15,50
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-13 2 15.30 161 4 5.20 | Valor a pagar: R$ 51,40
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-1 1 15.10    2 1 15.10 | Valor a pagar: R$ 30,20
+<img src="./readme-img/desafio05.png" alt="desafio05" />
 
 <p align="right"><a href="#top">Início ↑</a></p>  
 
@@ -230,13 +186,9 @@ Fazer um programa que leia três valores com ponto flutuante de dupla precisão:
 - a área do quadrado que tem lado B.  
 - a área do retângulo que tem lados A e B  
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-3.0 4.0 5.2 | TRIÂNGULO: 7.800   CÍRCULO: 84.949   TRAPÉZIO: 18.200   QUADRADO: 16.000   RETÂNGULO: 12.000
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-12.7 10.4 15.2 | TRIÂNGULO: 96.520   CÍRCULO: 725.833   TRAPÉZIO: 175.560   QUADRADO: 108.160   RETÂNGULO: 132.080
+<img src="./readme-img/desafio06.png" alt="desafio06" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -247,17 +199,10 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 07  
 Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.  
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
--10 | NEGATIVO
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-8 | NÃO NEGATIVO
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0 | NÃO NEGATIVO
+<img src="./readme-img/desafio07-1.png" alt="desafio07" />
+<img src="./readme-img/desafio07-2.png" alt="desafio07" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -268,17 +213,10 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 08  
 Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.  
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-12 | PAR
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
--27 | ÍMPAR
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0 | PAR
+<img src="./readme-img/desafio08-1.png" alt="desafio08" />
+<img src="./readme-img/desafio08-2.png" alt="desafio08" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -291,17 +229,10 @@ Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "S�
 
 Observação: O número zero pertence ao conjunto dos inteiros e sabemos que qualquer número multiplicado por zero é igual a zero, ou seja, o número zero é múltiplo de todo número inteiro.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-6  24 | São múltiplos
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-6  25 | Não são múltiplos
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-24  6 | São Múltiplos
+<img src="./readme-img/desafio09-1.png" alt="desafio09" />
+<img src="./readme-img/desafio09-2.png" alt="desafio09" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -312,17 +243,11 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 10  
 Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do jogo, sabendo que o mesmo pode começar em um dia e terminar em outro, tendo uma duração mínima de 1 hora e máxima de 24 horas.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-16  2 | O jogo durou 10 horas
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0  0 | O jogo durou 24 horas
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2  16 | O jogo durou 14 horas
+<img src="./readme-img/desafio10-1.png" alt="desafio10" />
+<img src="./readme-img/desafio10-2.png" alt="desafio10" />
+<img src="./readme-img/desafio10-3.png" alt="desafio10" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -341,13 +266,9 @@ Código | Especificação | Preço
 4 | Torrada Simples | R$ 2,00
 5 | Refrigerante | R$ 1,50
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-3  2 | Total: R$ 10,00
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2  3 | Total: R$ 13,50
+<img src="./readme-img/desafio11.png" alt="desafio11" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -358,21 +279,12 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 12  
 Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos (0,25), (25,50), (50,75), (75,100) este valor se encontra. Obviamente se o valor não estiver em nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-25.01 | Intervalo (25,50)
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-25.00 | Intervalo (0, 25)
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-100.00 | Intervalo (75,100)
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
--25.02 | Fora de intervalo
+<img src="./readme-img/desafio12-1.png" alt="desafio12" />
+<img src="./readme-img/desafio12-2.png" alt="desafio12" />
+<img src="./readme-img/desafio12-3.png" alt="desafio12" />
+<img src="./readme-img/desafio12-4.png" alt="desafio12" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -385,17 +297,11 @@ Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenada
 
 <img src="./readme-img/desafio-13.png" />
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-4.5  -2.2 | Q4
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0.1  0.1 | Q1
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0.0  0.0 | Origem
+<img src="./readme-img/desafio13-1.png" alt="desafio13" />
+<img src="./readme-img/desafio13-2.png" alt="desafio13" />
+<img src="./readme-img/desafio13-3.png" alt="desafio13" />
 
 <p align="right"><a href="#top">Início ↑</a></p> 
 
@@ -415,17 +321,11 @@ acima de R$ 4500,00 | 28%
 
 Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobre R$ 1000.00, pois a faixa de salário que fica de R$ 0.00 até R$ 2000.00 é isenta de Imposto de Renda. No exemplo fornecido (abaixo), a taxa é de 8% sobre R$ 1000.00 + 18% sobre R$ 2.00, o que resulta em R$ 80.36 no total. O valor deve ser impresso com duas casas decimais.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-3002.00 | R$ 80.36
+Exemplos de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-1701.12 | Isento
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-4520.00 | R$ 355.60
+<img src="./readme-img/desafio14-1.png" alt="desafio14" />
+<img src="./readme-img/desafio14-2.png" alt="desafio14" />
+<img src="./readme-img/desafio14-3.png" alt="desafio14" />
 
 <p align="right"><a href="#top">Início ↑</a></p> 
 
@@ -436,21 +336,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 15  
 Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2200 | Senha Inválida
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-1020 | Senha Inválida
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2022 | Senha Inválida
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2002 | Acesso Permitido
+<img src="./readme-img/desafio15.png" alt="desafio15" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -461,25 +349,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 16  
 Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma).
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-2  2 | Primeiro
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-3  -2 | Quarto
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
--8  -1 | Terceiro
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
--7  1 | Segundo
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0  2 | 
+<img src="./readme-img/desafio16.png" alt="desafio16" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -491,14 +363,9 @@ Exemplo de Entrada | Exemplo de Saída
 Um Posto de combustíveis deseja determinar qual de seus produtos tem a preferência de seus clientes. Escreva um algoritmo para ler o tipo de combustível abastecido (codificado da seguinte forma: 1.Álcool 2.Gasolina 3.Diesel 4.Fim). Caso o usuário informe um código inválido (fora da faixa de 1 a 4) deve ser solicitado um novo código (até 
 que seja válido). O programa será encerrado quando o código informado for o número 4. Deve ser escrito a mensagem: "MUITO OBRIGADO" e a quantidade de clientes que abasteceram cada tipo de combustível, conforme exemplo.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-8 | Muito Obrigado
-1 | Álcool: 1
-7 | Gasolina: 2
-2 | Diesel: 0
-2 | 
-4 | 
+Exemplo de Console:
+
+<img src="./readme-img/desafio17.png" alt="desafio17" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -509,12 +376,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 18  
 Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X, se for o caso.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-8 | 1   
-  | 3
-  | 5
-  | 7
+Exemplo de Console:
+
+<img src="./readme-img/desafio18.png" alt="desafio18" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -525,9 +389,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 19  
 Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando essas informações conforme exemplo (use a palavra "in" para dentro do intervalo, e "out" para fora do intervalo).
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-5 14 123 10 -25 32 | 2 in 3 out
+Exemplo de Console:
+
+<img src="./readme-img/desafio19.png" alt="desafio19" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -538,12 +402,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 20  
 Leia 1 valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de teste consiste de 3 valores reais, cada um deles com uma casa decimal. Apresente a média ponderada para cada um destes conjuntos de 3 valores, sendo que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-3 | 
-6.5  4.3  6.2 | 5.7
-5.1  4.2  8.1 | 6.3
-8.0  9.0  10.0 | 9.3
+Exemplo de Console:
+
+<img src="./readme-img/desafio20.png" alt="desafio20" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -554,12 +415,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 21  
 Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem "divisao impossivel".
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-3 |
-3  -2 | -1.5
--8  0 | Divisão Impossível
-0  8 | 0.0
+Exemplo de Console:
+
+<img src="./readme-img/desafio21.png" alt="desafio21" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -570,21 +428,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 22  
 Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1. Lembrando que, por definição, fatorial de 0 é 1.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-4 | 24
+Exemplo de Console:
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-1 | 1
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-5 | 120
-
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-0 | 1
+<img src="./readme-img/desafio22.png" alt="desafio22" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -595,9 +441,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 23  
 Ler um número inteiro N e calcular todos os seus divisores.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-6 | 1  2  3  6
+Exemplo de Console:
+
+<img src="./readme-img/desafio23.png" alt="desafio23" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -608,14 +454,9 @@ Exemplo de Entrada | Exemplo de Saída
 ### Desafio 24  
 Fazer um programa para ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor, conforme exemplo.
 
-Exemplo de Entrada | Exemplo de Saída
------------- | -------------
-5 |
-  | 1 1 1
-  | 2 4 8
-  | 3 9 27
-  | 4 16 64
-  | 5 25 125
+Exemplo de Console:
+
+<img src="./readme-img/desafio24.png" alt="desafio24" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -625,6 +466,8 @@ Exemplo de Entrada | Exemplo de Saída
 
 ### Desafio 25  
 Fazer um programa que imprima no console o desenho abaixo:
+
+Exemplo de Console:
 
 ```
 *
@@ -651,37 +494,9 @@ e email deste estudante, assim como o quarto que ele escolher. Faça um programa
 alugar quartos (N pode ser de 1 a 10). Em seguida, registre o aluguel dos N estudantes. Para cada registro de aluguel, informar o nome e email do estudante, bem como qual dos quartos ele escolheu (de 0 a 9). 
 Não é permitido escolher um quarto que já está alugado. Ao final, seu programa deve imprimir um relatório de todas ocupações do pensionato, por ordem crescente de quarto, conforme exemplo.
 
-```
-Exemplo de Entrada
+Exemplo de Console:
 
-Quantos quartos serão alugados?
-3
-
-====== REGISTRO DE ALUGUEL ======
-
->> Aluguel 1
-Nome do estudante: Yuri
-Email do estudante: teste@teste.com
-Quarto escolhido pelo estudante [0 - 9]: 5
-
->> Aluguel 2
-Nome do estudante: Vitória
-Email do estudante: teste@teste.com
-Quarto escolhido pelo estudante [0 - 9]: 8
-
->> Aluguel 3
-Nome do estudante: Felipe
-Email do estudante: teste@teste.com
-Quarto escolhido pelo estudante [0 - 9]: 1
-
-Exemplo de Saída
-
-====== QUARTOS OCUPADOS ======
-
-Nome: Felipe, Email: teste@teste.com, Quarto: 1
-Nome: Yuri, Email: teste@teste.com, Quarto: 5
-Nome: Vitória, Email: teste@teste.com, Quarto: 8
-```
+<img src="./readme-img/desafio26.png" alt="desafio26" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -694,20 +509,9 @@ Nome: Vitória, Email: teste@teste.com, Quarto: 8
 ### Desafio 01  
 Faça um programa para ler os valores da base e altura de um retângulo. Em seguida, mostre na tela o valor de sua área, perímetro e diagonal. Use uma classe para representar o Retângulo.
 
-```console
-Exemplo de Entrada:
+Exemplo de Console:
 
-Digite a base e altura do retângulo
-
-Base: 3,00
-Altura: 4,00
-
-Exemplo de Saída:
-
-Área: 12,00
-Perímetro: 14,00
-Diagonal: 5,00
-```
+<img src="./readme-img/desafio01-poo.png" alt="desafio01-poo" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -720,30 +524,9 @@ Faça um programa para ler os dados de um funcionário (nome, salário bruto e i
 Em seguida, aumente o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostre
 novamente os dados do funcionário. Use uma classe para representar o Funcionário.
 
-```console
-Exemplo de Entrada:
+Exemplo de Console:
 
-Informe os dados do funcionário
-Nome: João Maria
-Salário Bruto: 6000,00
-Imposto: 1000,00
-
-Exemplo de Saída:
-
-Dados do Funcionário
-Nome: João Maria
-Salário Líquido: R$ 5000,00
-
-Exemplo de Entrada:
-
-Informe a porcentagem para aumentar o salário: 10,00
-
-Exemplo de Saída:
-
-Dados Atualizados do Funcionário
-Nome: João Maria
-Salário Líquido: R$ 5600,00
-```
+<img src="./readme-img/desafio02-poo.png" alt="desafio02-poo" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -756,23 +539,9 @@ Faça um programa para ler o nome de um aluno e as três notas que ele obteve no
 segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está APROVADO ou REPROVADO e,
 em caso negativo, quantos pontos faltam para o aluno obter o mínimo para ser aprovado (que é 60 pontos). Crie uma classe para representar o Aluno.
 
-```console
-Exemplo de Entrada
+Exemplo de Console:
 
-Informe o nome do aluno: João Maria
-
-Informe a 1ª nota: 30
-
-Informe a 2ª nota: 30
-
-Informe a 3ª nota: 35
-
-Exemplo de Saída
-
-Nota Final: 95,00
-Situação: APROVADO
-Nota Restante: 0,00
-```
+<img src="./readme-img/desafio03-poo.png" alt="desafio03-poo" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -792,36 +561,9 @@ informado o valor de depósito inicial. Em seguida, realizar um depósito e depo
 
 Criei uma classe para representar a ContaBancaria. Crie um MENU para mostrar ao usuário as opções do sistema bancário conforme o exemplo de entrada abaixo.
 
-```console
-Exemplo de Entrada
+Exemplo de Console:
 
-Informe o número da conta: 123456
-Informe o nome do Titular da conta: Yuri Siman
-Informe o valor de depósito inicial da conta: 1000
-
-Exemplo de Menu a ser exibido
-
-Informe a operação desejada
-
-[1] - DEPÓSITO
-[2] - SAQUE
-[3] - DADOS DA CONTA
-[0] - SAIR
-
-Exemplo de Entrada para Depósito
-
-Informe o valor para depósito: 1000
-
-Exemplo de Entrada para Saque
-
-Informe o valor para saque: 50
-
-Exemplo de Saída de Dados da Conta
-
-Conta 123456
-Titular: Yuri Siman
-Saldo: R$ 1945,00
-```
+<img src="./readme-img/desafio04-poo.png" alt="desafio04-poo" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
@@ -836,20 +578,9 @@ Faça um programa para ler um número inteiro N e depois os dados (id, nome e sa
 Para isso, o programa deve ler um id e o valor X. Se o id informado não existir, mostre uma mensagem e aborte a operação. Ao final, mostre a listagem atualizada dos funcionários. Lembre-se de aplicar a técnica de encapsulamento
 para não permitir que o salário possa ser mudado livremente. Um salário só poderá ser aumentado com base em uma operação de aumento por porcentagem dada.
 
-```console
-Exemplo de Entrada:
+Exemplo de Console:
 
-Digite a base e altura do retângulo
-
-Base: 3,00
-Altura: 4,00
-
-Exemplo de Saída:
-
-Área: 12,00
-Perímetro: 14,00
-Diagonal: 5,00
-```
+<img src="./readme-img/desafio01-collections.png" alt="desafio01-collections" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 

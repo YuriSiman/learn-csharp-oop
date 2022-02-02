@@ -11,11 +11,11 @@ namespace Desafio08
 
             if(numero % 2 == 0)
             {
-                Console.WriteLine("PAR");
+                Console.WriteLine("\nPAR");
             }
             else
             {
-                Console.WriteLine("ÍMPAR");
+                Console.WriteLine("\nÍMPAR");
             }
         }
     }

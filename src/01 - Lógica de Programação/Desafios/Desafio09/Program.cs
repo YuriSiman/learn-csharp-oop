@@ -6,7 +6,7 @@ namespace Desafio09
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite dois valores inteiros");
+            Console.WriteLine("Digite dois valores inteiros\n");
             Console.Write("A: ");
             int a = int.Parse(Console.ReadLine());
             Console.Write("B: ");
@@ -14,11 +14,11 @@ namespace Desafio09
 
             if (a == 0 || b == 0 || ((a / b) * b == a) || ((b / a) * a == b))
             {
-                Console.WriteLine("São Múltiplos");
+                Console.WriteLine("\nSão Múltiplos");
             }
             else
             {
-                Console.WriteLine("Não são Múltiplos");
+                Console.WriteLine("\nNão são Múltiplos");
             }
         }
     }

@@ -6,7 +6,7 @@ namespace Desafio10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Informe a hora inicial e a hora final do jogo");
+            Console.WriteLine("Informe a hora inicial e a hora final do jogo\n");
 
             Console.Write("Hora Inicial: ");
             int horaInicial = int.Parse(Console.ReadLine());
@@ -24,7 +24,7 @@ namespace Desafio10
                 duracao = 24 - horaInicial + horaFinal;
             }
 
-            Console.WriteLine($"O jogo durou {duracao} horas");
+            Console.WriteLine($"\nO jogo durou {duracao} horas");
         }
     }
 }

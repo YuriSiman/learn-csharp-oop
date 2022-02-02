@@ -7,7 +7,7 @@ namespace Desafio06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Informe três falores de ponto flutuante: ");
+            Console.WriteLine("Informe três valores de ponto flutuante: ");
             Console.Write("Valor A: ");
             double a = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Valor B: ");
@@ -30,7 +30,7 @@ namespace Desafio06
             // Área do Retângulo - base * altura
             double areaRetangulo = a * b;
 
-            Console.WriteLine($"TRIÂNGULO: {areaTrianguloRetangulo.ToString("F3", CultureInfo.InvariantCulture)}\n" +
+            Console.WriteLine($"\nTRIÂNGULO: {areaTrianguloRetangulo.ToString("F3", CultureInfo.InvariantCulture)}\n" +
                 $"CÍRCULO: {areaCirculo.ToString("F3", CultureInfo.InvariantCulture)}\n" +
                 $"TRAPÉZIO: {areaTrapezio.ToString("F3", CultureInfo.InvariantCulture)}\n" +
                 $"QUADRADO: {areaQuadrado.ToString("F3", CultureInfo.InvariantCulture)}\n" +

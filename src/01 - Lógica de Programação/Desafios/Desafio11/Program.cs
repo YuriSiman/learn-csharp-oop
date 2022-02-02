@@ -6,7 +6,7 @@ namespace Desafio11
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Informe primeiro o código e, após um espaço, a quantidade do item\n");
+            Console.WriteLine("Informe primeiro o código e, após um espaço, a quantidade do item:\n");
 
             string[] valores = Console.ReadLine().Split(' ');
             int codigo = int.Parse(valores[0]);
@@ -35,10 +35,10 @@ namespace Desafio11
             }
             else
             {
-                Console.WriteLine("O código não existe!");
+                Console.WriteLine("\nO código não existe!");
             }
 
-            Console.WriteLine($"Total: R$ {total:F2}");
+            Console.WriteLine($"\nTotal: R$ {total:F2}");
         }
     }
 }

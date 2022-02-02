@@ -2,10 +2,10 @@
 
 while (senha != 2002)
 {
-    Console.Write("Digite a senha: ");
+    Console.Write("\nDigite a senha: ");
     senha = int.Parse(Console.ReadLine());
 
-    if (senha != 2002) Console.WriteLine("Senha Incorreta!");
+    if (senha != 2002) Console.WriteLine("\n[ Senha Inválida ]");
 }
 
-Console.WriteLine("Senha Correta!");
+Console.WriteLine("\n[ Acesso Permitido ]");

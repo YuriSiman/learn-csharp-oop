@@ -8,24 +8,24 @@ double y = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 if(x == 0.0 && y == 0.0)
 {
-    Console.WriteLine("Origem");
+    Console.WriteLine("\nOrigem");
 }else if(x == 0.0)
 {
-    Console.WriteLine("Eixo Y");
+    Console.WriteLine("\nEixo Y");
 }else if(y == 0.0)
 {
-    Console.WriteLine("Eixo X");
+    Console.WriteLine("\nEixo X");
 }else if (x > 0.0 && y > 0.0)
 {
-    Console.WriteLine("Q1");
+    Console.WriteLine("\nQ1");
 }else if(x > 0.0 && y < 0.0)
 {
-    Console.WriteLine("Q4");
+    Console.WriteLine("\nQ4");
 }else if(x < 0.0 && y > 0.0)
 {
-    Console.WriteLine("Q2");
+    Console.WriteLine("\nQ2");
 }
 else
 {
-    Console.WriteLine("Q3");
+    Console.WriteLine("\nQ3");
 }
