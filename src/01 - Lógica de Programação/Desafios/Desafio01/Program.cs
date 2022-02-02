@@ -12,7 +12,7 @@ namespace Desafio01
             double bX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double cX = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Entre com as medidas do triângulo Y: ");
+            Console.WriteLine("\nEntre com as medidas do triângulo Y: ");
             double aY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double bY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             double cY = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -24,7 +24,7 @@ namespace Desafio01
             double areaY = Math.Sqrt(p * (p - aY) * (p - bY) * (p - cY));
             char maiorArea = areaX > areaY ? 'X' : 'Y';
 
-            Console.WriteLine($"Área de X: {areaX.ToString("F4", CultureInfo.InvariantCulture)}\nÁrea de X: {areaY.ToString("F4", CultureInfo.InvariantCulture)}\nMaior Área: {maiorArea}");
+            Console.WriteLine($"\nÁrea de X: {areaX.ToString("F4", CultureInfo.InvariantCulture)}\nÁrea de X: {areaY.ToString("F4", CultureInfo.InvariantCulture)}\nMaior Área: {maiorArea}");
         }
     }
 }

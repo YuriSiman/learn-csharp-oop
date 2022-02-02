@@ -90,6 +90,12 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
     <li><a href="#desafio04-poo">Desafio 04</a></li>
   </ul>
 </details>
+<details>
+  <summary>Collections</summary>
+  <ul>
+    <li><a href="#desafio01-collections">Desafio 01</a></li>
+  </ul>
+</details>
 
 ---
 
@@ -815,6 +821,34 @@ Exemplo de Saída de Dados da Conta
 Conta 123456
 Titular: Yuri Siman
 Saldo: R$ 1945,00
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+### Collections
+
+<div id="desafio01-collections"></div>
+
+### Desafio 01  
+Faça um programa para ler um número inteiro N e depois os dados (id, nome e salário) de N funcionários. Não deve ter repetição de id. Em seguida, efetue o aumento de X por cento no salário de um determinado funcionário. 
+Para isso, o programa deve ler um id e o valor X. Se o id informado não existir, mostre uma mensagem e aborte a operação. Ao final, mostre a listagem atualizada dos funcionários. Lembre-se de aplicar a técnica de encapsulamento
+para não permitir que o salário possa ser mudado livremente. Um salário só poderá ser aumentado com base em uma operação de aumento por porcentagem dada.
+
+```console
+Exemplo de Entrada:
+
+Digite a base e altura do retângulo
+
+Base: 3,00
+Altura: 4,00
+
+Exemplo de Saída:
+
+Área: 12,00
+Perímetro: 14,00
+Diagonal: 5,00
 ```
 
 <p align="right"><a href="#top">Início ↑</a></p>
