@@ -430,7 +430,10 @@ Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N *
 
 Exemplo de Console:
 
-<img src="./readme-img/desafio22.png" alt="desafio22" />
+<img src="./readme-img/desafio22-1.png" alt="desafio22" />
+<img src="./readme-img/desafio22-2.png" alt="desafio22" />
+<img src="./readme-img/desafio22-3.png" alt="desafio22" />
+<img src="./readme-img/desafio22-4.png" alt="desafio22" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 

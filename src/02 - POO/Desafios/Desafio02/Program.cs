@@ -1,6 +1,6 @@
 ﻿using Desafio02;
 
-Console.WriteLine("Informe os dados do funcionário");
+Console.WriteLine("Informe os dados do funcionário\n");
 
 Funcionario funcionario = new Funcionario();
 

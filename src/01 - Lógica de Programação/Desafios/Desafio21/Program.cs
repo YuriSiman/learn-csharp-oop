@@ -12,11 +12,11 @@ for (int i = 0; i < qtd; i++)
 
     if (valor2 == 0)
     {
-        Console.WriteLine("Divisão Impossível!");
+        Console.WriteLine("\nDivisão Impossível!\n");
     }
     else
     {
         divisao = valor1 / valor2;
-        Console.WriteLine($"{divisao:F1}");
+        Console.WriteLine($"\n{divisao:F1}\n");
     }
 }

@@ -3,10 +3,10 @@ int num = 0;
 
 while(num <= 0)
 {
-    Console.Write("\nInforme um número inteiro positivo: ");
+    Console.Write("Informe um número inteiro positivo: ");
     num = int.Parse(Console.ReadLine());
 
-    if (num <= 0) Console.WriteLine("O número não é um inteiro positivo!");
+    if (num <= 0) Console.WriteLine("\nO número não é um inteiro positivo!\n");
 }
 
 for (int i = 1; i <= num; i++)

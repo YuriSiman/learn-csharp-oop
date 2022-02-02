@@ -4,9 +4,9 @@ Console.WriteLine("============ CADASTRO DA CONTA BANCÁRIA ============");
 
 Console.Write("\nInforme o Número da conta: ");
 int numero = NumeroConta(int.Parse(Console.ReadLine()));
-Console.Write("\nInforme o nome do Titular da conta: ");
+Console.Write("Informe o nome do Titular da conta: ");
 string nomeTitular = TitularConta(Console.ReadLine());
-Console.Write("\nInforme o valor de depósito inicial da conta: ");
+Console.Write("Informe o valor de depósito inicial da conta: ");
 decimal valorInicial = decimal.Parse(Console.ReadLine());
 
 
