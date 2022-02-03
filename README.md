@@ -79,6 +79,8 @@ Bem, agora é só abrir sua IDE preferida e pegar uma boa xícara de café! Bons
     <li><a href="#desafio24">Desafio 24</a></li>
     <li><a href="#desafio25">Desafio 25</a></li>
     <li><a href="#desafio26">Desafio 26</a></li>
+    <li><a href="#desafio27">Desafio 27</a></li>
+    <li><a href="#desafio28">Desafio 28</a></li>
   </ul>
 </details>
 <details>
@@ -500,6 +502,33 @@ Não é permitido escolher um quarto que já está alugado. Ao final, seu progra
 Exemplo de Console:
 
 <img src="./readme-img/desafio26.png" alt="desafio26" />
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="desafio27"></div>
+
+### Desafio 27  
+Faça um programa para ler um número inteiro positivo N e uma matriz de ordem N, contendo números inteiros. Em seguida, mostre a diagonal principal e a quantidade de valores negativos da matriz.
+
+Exemplo de Console:
+
+<img src="./readme-img/desafio27.png" alt="desafio27" />
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="desafio28"></div>
+
+### Desafio 28  
+Faça um programa para ler dois números inteiros positivos M e N, e depois ler uma matriz de M linhas por N colunas contendo números inteiros, podendo haver repetições. Em seguida, leia um número inteiro X que possa existir na matriz, caso não exista,
+informe na tela. Para cada ocorrência de X, mostre os valores à esquerda, acima, à direita e abaixo de X, quando houver.
+
+Exemplo de Console:
+
+<img src="./readme-img/desafio28.png" alt="desafio28" />
 
 <p align="right"><a href="#top">Início ↑</a></p>
 
