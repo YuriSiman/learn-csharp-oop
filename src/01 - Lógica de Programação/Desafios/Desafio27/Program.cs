@@ -5,7 +5,7 @@ while (n <= 0)
     Console.Write("Informe um número: ");
     n = int.Parse(Console.ReadLine());
 
-    if (n <= 0) Console.WriteLine("\n[ Número inválido! Informe um número inteiro positivo ]");
+    if (n <= 0) Console.WriteLine("\n[ Número inválido! Informe um número inteiro positivo ]\n");
 }
 
 int[,] matriz = new int[n, n];
